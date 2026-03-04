@@ -4,7 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fetchPluginData } from './fetch/fetch-index.js';
-import { fetchCommunityPlugins, type DiscoveredPlugin } from './discovery.js';
+import { fetchBetaPlugins, type DiscoveredPlugin } from './discovery.js';
 import { writeJsonAtomic, readJsonSafe } from './fileUtils.js';
 
 const MAX_DURATION_MS = 5.5 * 60 * 60 * 1000; // 5.5 hours
@@ -138,13 +138,13 @@ async function main(): Promise<void> {
   }
 
   console.log("📥 Fetching plugin metadata lists...");
-  const communityPlugins = await fetchCommunityPlugins();
+  const betaPlugins = await fetchBetaPlugins();
 
   const progressState: ProgressState = { isFinished: true };
 
   // Process categories sequentially to respect rate limits and logic clarity
   await Promise.all([
-    processCategory(communityPlugins, path.join(process.cwd(), 'data'), pat, "Community", deadline, progressState)
+    processCategory(betaPlugins, path.join(process.cwd(), 'beta'), pat, "Beta", deadline, progressState)
   ]);
 
   // Save state for the workflow to read
