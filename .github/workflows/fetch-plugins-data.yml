@@ -61,7 +61,6 @@ jobs:
         with:
           path: |
             data/
-            beta/
             progress.json
           key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
@@ -92,7 +91,6 @@ jobs:
         with:
           path: |
             data/
-            beta/
             progress.json
           key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
 
