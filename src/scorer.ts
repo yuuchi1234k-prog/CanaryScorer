@@ -23,7 +23,7 @@ import type {
   ScoreReport 
 } from './schemas.js';
 import { ScoreReportSchema } from './schemas.js';
-import { fetchCommunityPlugins, fetchBetaPlugins, type DiscoveredPlugin } from './discovery.js';
+import { fetchCommunityPlugins, type DiscoveredPlugin } from './discovery.js';
 import { writeJsonAtomic, readJsonSafe } from './fileUtils.js';
 
 // ─── Types ───────────────────────────────────────────────────────────────────
@@ -166,10 +166,7 @@ async function scoreDirectory(
           stability: s.dimensions.stability.score,
           maturity: s.dimensions.maturity.score,
           communityHealth: s.dimensions.communityHealth.score
-        },
-        prNumber: p.metadata.prNumber,
-        prStatus: p.metadata.prStatus,
-        prLabels: p.metadata.prLabels
+        }
       });
     } else {
         console.error(`❌ [Scorer] Failed to score ${p.id}:`, scoreResult.error);
@@ -205,14 +202,6 @@ async function main(): Promise<void> {
     path.join(process.cwd(), 'plugin-scores.json'),
     communityList,
     "Community"
-  );
-
-  const betaList = await fetchBetaPlugins();
-  await scoreDirectory(
-    path.join(process.cwd(), 'beta'),
-    path.join(process.cwd(), 'betaPlugin-scores.json'),
-    betaList,
-    "Beta"
   );
 }
 
