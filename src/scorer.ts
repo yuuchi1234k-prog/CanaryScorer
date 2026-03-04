@@ -166,10 +166,7 @@ async function scoreDirectory(
           stability: s.dimensions.stability.score,
           maturity: s.dimensions.maturity.score,
           communityHealth: s.dimensions.communityHealth.score
-        },
-        prNumber: p.metadata.prNumber,
-        prStatus: p.metadata.prStatus,
-        prLabels: p.metadata.prLabels
+        }
       });
     } else {
         console.error(`❌ [Scorer] Failed to score ${p.id}:`, scoreResult.error);

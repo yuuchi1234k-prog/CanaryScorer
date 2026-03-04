@@ -11,9 +11,6 @@ export interface DiscoveredPlugin {
   description: string;
   author: string;
   repo: string;
-  prNumber?: number;
-  prStatus?: string | null;
-  prLabels?: string[];
 }
 
 const USER_AGENT = 'CanaryScorer (Lae-Aragi; https://github.com/Lae-Aragi/CanaryScorer)';
