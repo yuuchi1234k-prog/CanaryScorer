@@ -1,0 +1,174 @@
+{
+  "plugin": {
+    "totalDownloads": 5319,
+    "stargazers": 25,
+    "createdAt": "2023-03-31T03:10:57Z",
+    "latestReleaseAt": "2023-05-08T02:17:29Z",
+    "lastCommitDate": "2025-02-11T18:06:10Z",
+    "commitCountInLast24Months": 1,
+    "totalReleases": 3,
+    "releases": [
+      {
+        "publishedAt": "2023-04-06T02:32:50Z",
+        "downloads": 118
+      },
+      {
+        "publishedAt": "2023-04-23T02:46:13Z",
+        "downloads": 22
+      },
+      {
+        "publishedAt": "2023-05-08T02:17:29Z",
+        "downloads": 5179
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2023-05-07T15:08:39Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-09-10T17:09:33Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-16T04:41:22Z"
+      }
+    ],
+    "closedIssues": [],
+    "openPRs": [
+      {
+        "createdAt": "2025-02-11T18:06:11Z"
+      }
+    ],
+    "closedPRs": [
+      {
+        "createdAt": "2023-10-23T23:19:27Z",
+        "closedAt": "2023-10-24T12:29:15Z"
+      },
+      {
+        "createdAt": "2023-11-06T23:56:07Z",
+        "closedAt": "2023-11-14T00:03:08Z"
+      },
+      {
+        "createdAt": "2023-11-06T23:56:17Z",
+        "closedAt": "2023-11-14T00:03:17Z"
+      },
+      {
+        "createdAt": "2023-11-06T23:56:40Z",
+        "closedAt": "2023-11-14T00:03:32Z"
+      },
+      {
+        "createdAt": "2023-11-14T00:03:15Z",
+        "closedAt": "2023-11-17T13:14:07Z"
+      }
+    ],
+    "mergedPRs": [
+      {
+        "createdAt": "2023-10-16T03:37:21Z",
+        "mergedAt": "2023-10-16T03:40:44Z"
+      },
+      {
+        "createdAt": "2023-10-16T03:37:45Z",
+        "mergedAt": "2023-10-16T03:57:03Z"
+      },
+      {
+        "createdAt": "2023-10-16T03:37:57Z",
+        "mergedAt": "2023-10-16T03:52:33Z"
+      },
+      {
+        "createdAt": "2023-10-16T03:38:06Z",
+        "mergedAt": "2023-10-16T03:41:05Z"
+      },
+      {
+        "createdAt": "2023-10-16T03:38:16Z",
+        "mergedAt": "2023-10-16T03:40:56Z"
+      },
+      {
+        "createdAt": "2023-10-16T23:07:19Z",
+        "mergedAt": "2023-10-17T02:12:51Z"
+      },
+      {
+        "createdAt": "2023-10-16T23:07:25Z",
+        "mergedAt": "2023-10-17T02:29:12Z"
+      },
+      {
+        "createdAt": "2023-10-16T23:07:42Z",
+        "mergedAt": "2023-10-17T02:25:10Z"
+      },
+      {
+        "createdAt": "2023-10-16T23:07:55Z",
+        "mergedAt": "2023-10-17T02:16:12Z"
+      },
+      {
+        "createdAt": "2023-10-17T04:20:27Z",
+        "mergedAt": "2023-10-17T04:48:37Z"
+      },
+      {
+        "createdAt": "2023-10-23T23:18:38Z",
+        "mergedAt": "2023-10-24T12:28:27Z"
+      },
+      {
+        "createdAt": "2023-10-23T23:19:00Z",
+        "mergedAt": "2023-10-24T12:37:09Z"
+      },
+      {
+        "createdAt": "2023-10-23T23:19:10Z",
+        "mergedAt": "2023-10-24T12:44:36Z"
+      },
+      {
+        "createdAt": "2023-10-23T23:19:19Z",
+        "mergedAt": "2023-10-24T12:33:44Z"
+      },
+      {
+        "createdAt": "2023-10-23T23:26:23Z",
+        "mergedAt": "2023-10-24T12:25:57Z"
+      },
+      {
+        "createdAt": "2023-10-24T12:29:12Z",
+        "mergedAt": "2023-10-24T12:52:32Z"
+      },
+      {
+        "createdAt": "2023-10-30T23:43:02Z",
+        "mergedAt": "2023-10-31T15:58:42Z"
+      },
+      {
+        "createdAt": "2023-10-30T23:43:13Z",
+        "mergedAt": "2023-10-31T15:53:07Z"
+      },
+      {
+        "createdAt": "2023-10-30T23:43:31Z",
+        "mergedAt": "2023-10-31T15:55:30Z"
+      },
+      {
+        "createdAt": "2023-11-06T23:56:24Z",
+        "mergedAt": "2023-11-17T13:21:41Z"
+      },
+      {
+        "createdAt": "2023-11-14T00:02:45Z",
+        "mergedAt": "2023-11-17T13:15:11Z"
+      },
+      {
+        "createdAt": "2023-11-14T00:03:06Z",
+        "mergedAt": "2023-11-17T13:23:13Z"
+      },
+      {
+        "createdAt": "2023-11-14T00:03:29Z",
+        "mergedAt": "2023-11-17T13:13:23Z"
+      },
+      {
+        "createdAt": "2023-11-17T13:14:04Z",
+        "mergedAt": "2023-11-17T13:18:13Z"
+      },
+      {
+        "createdAt": "2023-12-18T23:23:47Z",
+        "mergedAt": "2023-12-19T01:35:56Z"
+      },
+      {
+        "createdAt": "2024-07-14T04:53:06Z",
+        "mergedAt": "2024-07-14T06:47:34Z"
+      }
+    ]
+  },
+  "now": "2026-03-04T02:07:06.228Z"
+}

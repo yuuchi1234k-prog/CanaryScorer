@@ -1,0 +1,5746 @@
+{
+  "plugin": {
+    "totalDownloads": 818731,
+    "stargazers": 1811,
+    "createdAt": "2021-08-02T23:30:28Z",
+    "latestReleaseAt": "2026-03-03T21:32:34Z",
+    "lastCommitDate": "2026-03-03T21:32:51Z",
+    "commitCountInLast24Months": 462,
+    "totalReleases": 82,
+    "releases": [
+      {
+        "publishedAt": "2021-08-07T22:26:50Z",
+        "downloads": 10
+      },
+      {
+        "publishedAt": "2021-08-12T04:42:02Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2021-08-20T21:52:37Z",
+        "downloads": 29
+      },
+      {
+        "publishedAt": "2021-08-22T17:57:47Z",
+        "downloads": 66
+      },
+      {
+        "publishedAt": "2021-08-26T01:51:35Z",
+        "downloads": 102
+      },
+      {
+        "publishedAt": "2021-09-02T02:41:31Z",
+        "downloads": 98
+      },
+      {
+        "publishedAt": "2021-09-08T05:54:53Z",
+        "downloads": 133
+      },
+      {
+        "publishedAt": "2021-09-16T05:05:52Z",
+        "downloads": 193
+      },
+      {
+        "publishedAt": "2021-09-24T03:29:01Z",
+        "downloads": 71
+      },
+      {
+        "publishedAt": "2021-09-25T04:54:58Z",
+        "downloads": 173
+      },
+      {
+        "publishedAt": "2021-09-29T23:23:55Z",
+        "downloads": 233
+      },
+      {
+        "publishedAt": "2021-10-07T00:14:33Z",
+        "downloads": 270
+      },
+      {
+        "publishedAt": "2021-10-15T17:08:07Z",
+        "downloads": 154
+      },
+      {
+        "publishedAt": "2021-10-17T22:21:29Z",
+        "downloads": 412
+      },
+      {
+        "publishedAt": "2021-10-30T06:14:54Z",
+        "downloads": 598
+      },
+      {
+        "publishedAt": "2021-11-18T23:38:55Z",
+        "downloads": 1368
+      },
+      {
+        "publishedAt": "2022-01-11T05:15:51Z",
+        "downloads": 568
+      },
+      {
+        "publishedAt": "2022-01-17T21:45:01Z",
+        "downloads": 1414
+      },
+      {
+        "publishedAt": "2022-02-09T20:18:54Z",
+        "downloads": 5434
+      },
+      {
+        "publishedAt": "2022-05-15T15:20:46Z",
+        "downloads": 2070
+      },
+      {
+        "publishedAt": "2022-05-29T17:55:21Z",
+        "downloads": 1927
+      },
+      {
+        "publishedAt": "2022-06-10T15:01:18Z",
+        "downloads": 2334
+      },
+      {
+        "publishedAt": "2022-06-25T20:44:08Z",
+        "downloads": 1645
+      },
+      {
+        "publishedAt": "2022-07-03T23:06:07Z",
+        "downloads": 1369
+      },
+      {
+        "publishedAt": "2022-07-09T23:08:17Z",
+        "downloads": 2225
+      },
+      {
+        "publishedAt": "2022-07-15T22:53:57Z",
+        "downloads": 2949
+      },
+      {
+        "publishedAt": "2022-07-31T21:20:04Z",
+        "downloads": 2621
+      },
+      {
+        "publishedAt": "2022-08-13T23:53:54Z",
+        "downloads": 363
+      },
+      {
+        "publishedAt": "2022-08-15T00:49:41Z",
+        "downloads": 426
+      },
+      {
+        "publishedAt": "2022-08-15T22:03:50Z",
+        "downloads": 445
+      },
+      {
+        "publishedAt": "2022-08-16T21:51:14Z",
+        "downloads": 3512
+      },
+      {
+        "publishedAt": "2022-09-04T17:38:06Z",
+        "downloads": 3304
+      },
+      {
+        "publishedAt": "2022-09-19T02:26:41Z",
+        "downloads": 2172
+      },
+      {
+        "publishedAt": "2022-09-24T15:11:57Z",
+        "downloads": 2728
+      },
+      {
+        "publishedAt": "2022-10-03T02:35:06Z",
+        "downloads": 8092
+      },
+      {
+        "publishedAt": "2022-10-27T23:18:10Z",
+        "downloads": 5754
+      },
+      {
+        "publishedAt": "2022-11-10T20:21:04Z",
+        "downloads": 5620
+      },
+      {
+        "publishedAt": "2022-11-24T14:27:16Z",
+        "downloads": 5030
+      },
+      {
+        "publishedAt": "2022-12-06T02:02:39Z",
+        "downloads": 2467
+      },
+      {
+        "publishedAt": "2022-12-09T09:44:37Z",
+        "downloads": 5974
+      },
+      {
+        "publishedAt": "2022-12-22T03:29:38Z",
+        "downloads": 591
+      },
+      {
+        "publishedAt": "2022-12-22T14:29:25Z",
+        "downloads": 11762
+      },
+      {
+        "publishedAt": "2023-01-24T01:10:01Z",
+        "downloads": 6327
+      },
+      {
+        "publishedAt": "2023-02-03T13:09:19Z",
+        "downloads": 19235
+      },
+      {
+        "publishedAt": "2023-04-04T00:50:09Z",
+        "downloads": 3954
+      },
+      {
+        "publishedAt": "2023-04-08T22:00:13Z",
+        "downloads": 11179
+      },
+      {
+        "publishedAt": "2023-05-02T23:44:37Z",
+        "downloads": 8086
+      },
+      {
+        "publishedAt": "2023-05-14T17:42:19Z",
+        "downloads": 7406
+      },
+      {
+        "publishedAt": "2023-05-25T00:49:09Z",
+        "downloads": 1048
+      },
+      {
+        "publishedAt": "2023-05-25T13:12:55Z",
+        "downloads": 1466
+      },
+      {
+        "publishedAt": "2023-05-26T11:04:50Z",
+        "downloads": 12508
+      },
+      {
+        "publishedAt": "2023-06-19T12:21:28Z",
+        "downloads": 13252
+      },
+      {
+        "publishedAt": "2023-07-11T23:54:41Z",
+        "downloads": 12996
+      },
+      {
+        "publishedAt": "2023-07-29T18:45:45Z",
+        "downloads": 2982
+      },
+      {
+        "publishedAt": "2023-08-01T00:14:18Z",
+        "downloads": 3705
+      },
+      {
+        "publishedAt": "2023-08-03T13:00:27Z",
+        "downloads": 20110
+      },
+      {
+        "publishedAt": "2023-09-06T23:40:31Z",
+        "downloads": 29558
+      },
+      {
+        "publishedAt": "2023-10-25T22:19:49Z",
+        "downloads": 23966
+      },
+      {
+        "publishedAt": "2023-12-04T01:39:31Z",
+        "downloads": 9318
+      },
+      {
+        "publishedAt": "2023-12-13T13:11:57Z",
+        "downloads": 39960
+      },
+      {
+        "publishedAt": "2024-02-25T21:48:15Z",
+        "downloads": 800
+      },
+      {
+        "publishedAt": "2024-02-26T04:16:48Z",
+        "downloads": 11463
+      },
+      {
+        "publishedAt": "2024-03-06T00:15:02Z",
+        "downloads": 37783
+      },
+      {
+        "publishedAt": "2024-03-22T17:46:50Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2024-04-29T23:27:22Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2024-06-01T20:21:16Z",
+        "downloads": 21
+      },
+      {
+        "publishedAt": "2024-07-08T01:23:44Z",
+        "downloads": 29936
+      },
+      {
+        "publishedAt": "2024-08-11T21:25:46Z",
+        "downloads": 20
+      },
+      {
+        "publishedAt": "2024-08-12T02:10:17Z",
+        "downloads": 102
+      },
+      {
+        "publishedAt": "2024-08-21T00:08:08Z",
+        "downloads": 338
+      },
+      {
+        "publishedAt": "2024-09-01T23:25:46Z",
+        "downloads": 33866
+      },
+      {
+        "publishedAt": "2024-09-28T21:51:03Z",
+        "downloads": 457
+      },
+      {
+        "publishedAt": "2024-10-14T12:38:13Z",
+        "downloads": 520
+      },
+      {
+        "publishedAt": "2024-10-14T15:22:50Z",
+        "downloads": 50151
+      },
+      {
+        "publishedAt": "2024-12-24T16:12:12Z",
+        "downloads": 77668
+      },
+      {
+        "publishedAt": "2025-02-12T23:58:53Z",
+        "downloads": 573
+      },
+      {
+        "publishedAt": "2025-04-19T14:04:00Z",
+        "downloads": 79942
+      },
+      {
+        "publishedAt": "2025-05-26T18:47:55Z",
+        "downloads": 1306
+      },
+      {
+        "publishedAt": "2025-05-27T22:32:30Z",
+        "downloads": 39374
+      },
+      {
+        "publishedAt": "2025-09-14T16:55:36Z",
+        "downloads": 111558
+      },
+      {
+        "publishedAt": "2026-02-15T23:23:25Z",
+        "downloads": 28576
+      },
+      {
+        "publishedAt": "2026-03-03T21:32:34Z",
+        "downloads": 488
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "question",
+        "createdAt": "2021-09-08T16:18:19Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2021-10-27T14:54:56Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2021-10-28T13:52:03Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2021-11-05T19:08:04Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2021-12-13T11:13:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-03-29T17:29:09Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-04-08T08:55:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-04-26T10:36:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-07-02T06:24:31Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-07-07T10:43:40Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-07-11T00:16:40Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-07-15T18:11:42Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-07-26T17:45:16Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2022-08-06T09:43:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-08-14T06:15:10Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-08-17T18:02:57Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-08-27T06:06:16Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2022-09-21T16:28:12Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-09-28T09:16:37Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-10-08T14:16:41Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-11-09T09:32:53Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2022-11-09T12:38:34Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-03T19:18:13Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-07T08:58:27Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-15T00:54:28Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-17T15:47:58Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-23T13:54:23Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2022-12-24T08:42:27Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2022-12-24T22:34:27Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-01-01T20:19:30Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-01-25T15:01:58Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-01-27T20:19:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-02-02T09:59:24Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-02-02T16:12:02Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-02-03T12:19:26Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-02-12T06:20:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-03-18T09:20:06Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-04-08T04:33:33Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-04-11T10:26:27Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-07T10:44:34Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-10T02:47:29Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-05-10T20:50:56Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-14T02:10:00Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-05-15T06:13:35Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-21T22:32:58Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-26T05:20:52Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-05-26T11:56:40Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-06-17T21:53:25Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-06-22T13:20:53Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-01T16:44:10Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-04T16:55:09Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-13T10:09:39Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-14T10:38:24Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-18T09:00:46Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-23T03:14:50Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-07-25T08:36:01Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2023-07-27T04:13:20Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-03T08:56:29Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-03T13:04:31Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-05T14:42:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-06T20:13:19Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-17T12:28:37Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-21T03:49:38Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-08-28T06:18:54Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-09-01T22:45:40Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-06T09:58:25Z"
+      },
+      {
+        "label": "documentation",
+        "createdAt": "2023-09-10T14:52:02Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-14T07:02:52Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-14T11:02:47Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-19T12:38:28Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-09-23T23:42:31Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-10-05T14:47:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-10-10T15:22:09Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-10-10T21:44:45Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-10-13T13:56:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-10-18T08:56:37Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-10-25T13:32:12Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2023-10-26T19:54:30Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-10-27T17:40:30Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-11-02T04:47:52Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-11-09T01:56:09Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-11-27T21:21:04Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-11-29T03:22:57Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2023-12-06T10:37:21Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2023-12-16T08:54:11Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2023-12-27T01:51:57Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-01-27T13:02:09Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-02-01T11:00:48Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-02-06T02:59:03Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-02-20T19:11:03Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-02-23T12:43:31Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-02-26T16:58:00Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-02-26T17:04:46Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-03-09T15:24:30Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-03-09T16:02:53Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-03-11T13:29:15Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-03-16T03:49:29Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-03-16T04:34:29Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-03-24T17:14:52Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-04-03T01:26:09Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-05-10T09:18:59Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-06-20T07:25:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-07-05T13:53:09Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-07-07T02:44:15Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-07-17T18:26:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-08-08T18:17:44Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-08-15T17:55:15Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-08-21T01:15:13Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-08-24T14:11:49Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-08-25T13:07:42Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-08-25T15:23:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-08-29T16:13:40Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-09-27T14:50:51Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-09-30T11:36:56Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2024-10-09T02:10:38Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-10-15T12:07:28Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-10-17T11:23:21Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-10-28T16:43:38Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-10-29T16:35:49Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2024-11-02T19:39:46Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-11-06T09:17:19Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-11-11T14:54:01Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2024-11-27T17:50:43Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-12-05T03:26:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-12-05T06:34:13Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-12-05T10:11:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-12-11T00:38:01Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-12-12T00:06:57Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2024-12-20T11:39:00Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2024-12-24T19:49:45Z"
+      },
+      {
+        "label": "documentation",
+        "createdAt": "2024-12-30T01:07:43Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2025-01-05T16:03:09Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-01-10T13:15:49Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-01-18T10:23:19Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-01-21T13:36:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-01-21T16:35:23Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-01-29T21:37:37Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-02-03T16:00:17Z"
+      },
+      {
+        "label": "documentation",
+        "createdAt": "2025-02-16T22:55:29Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-02-17T01:31:31Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-02-17T19:24:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-02-20T22:27:11Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2025-02-27T21:18:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-03-02T11:59:25Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-03-05T13:53:44Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2025-03-05T14:42:03Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-03-06T06:11:46Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-03-09T07:53:04Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-03-11T03:18:36Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-03-17T07:02:40Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-03-18T13:48:21Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2025-03-23T08:23:32Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-04-27T14:08:56Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-05-19T11:42:01Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-05-19T20:13:46Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-05-25T18:23:51Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-06-02T20:45:58Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-06-06T08:59:01Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-06-12T04:56:44Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-06-22T10:23:38Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-06-27T20:42:05Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-06-28T08:13:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-07-05T09:23:48Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-07-05T13:07:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-07-06T22:44:56Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-07-18T01:12:41Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-07-23T15:02:46Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-07-30T22:10:22Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-05T11:56:33Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-16T00:15:21Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-08-18T10:09:21Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-08-19T08:13:04Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-19T16:16:01Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-08-21T02:05:16Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-08-22T08:59:01Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-23T22:35:23Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-30T01:42:21Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-08-30T15:17:15Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-03T15:28:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-03T19:11:50Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-05T14:41:59Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-09T08:33:04Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-09T09:11:53Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-12T13:22:10Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-16T13:59:45Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-21T15:37:21Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-21T18:47:23Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-21T21:48:10Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-09-22T15:40:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-26T23:33:36Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-09-27T22:10:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-01T16:23:06Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-02T20:21:49Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-03T06:31:16Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-03T10:02:27Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-12T03:41:44Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-14T17:16:03Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-10-15T06:12:53Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2025-10-23T16:11:34Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-24T01:14:42Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-10-29T04:36:12Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-11-03T08:41:17Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-11-05T00:46:08Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-11-06T09:50:10Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-11-18T03:42:51Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2025-12-16T13:12:47Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-12-19T21:20:41Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-12-24T02:19:56Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2025-12-24T21:15:57Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-01-23T20:14:16Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-01-24T01:11:41Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-01-26T17:51:25Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-10T07:56:52Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-14T03:13:22Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-14T06:32:48Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-02-16T09:19:52Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-02-18T16:02:49Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-23T18:43:53Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-23T20:50:55Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-24T15:31:52Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-27T04:11:21Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-03-02T21:07:54Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-03-02T21:11:32Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-18T07:23:18Z",
+        "closedAt": "2021-08-20T21:53:17Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-22T05:47:33Z",
+        "closedAt": "2021-08-22T18:37:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-22T09:37:45Z",
+        "closedAt": "2021-08-26T01:53:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-22T11:32:23Z",
+        "closedAt": "2021-08-22T18:35:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-22T11:34:14Z",
+        "closedAt": "2021-09-09T19:03:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-24T08:58:04Z",
+        "closedAt": "2021-08-25T01:11:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-27T18:34:56Z",
+        "closedAt": "2021-08-30T18:56:26Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-08-30T17:45:11Z",
+        "closedAt": "2021-08-31T00:06:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-08-31T16:06:40Z",
+        "closedAt": "2021-09-03T05:41:21Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-09-04T21:39:19Z",
+        "closedAt": "2022-07-13T01:46:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-06T06:29:56Z",
+        "closedAt": "2021-09-06T16:37:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-06T06:35:44Z",
+        "closedAt": "2021-09-17T16:21:39Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-07T16:24:37Z",
+        "closedAt": "2021-09-08T02:27:28Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-09-07T16:33:46Z",
+        "closedAt": "2021-10-04T19:48:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-09-08T05:26:36Z",
+        "closedAt": "2021-09-08T05:48:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-09T23:17:36Z",
+        "closedAt": "2021-09-13T04:20:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-12T20:48:08Z",
+        "closedAt": "2021-09-19T16:55:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-13T03:46:10Z",
+        "closedAt": "2021-09-13T05:31:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-13T05:14:17Z",
+        "closedAt": "2021-09-14T00:11:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-13T14:43:54Z",
+        "closedAt": "2021-10-08T04:24:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-13T20:40:05Z",
+        "closedAt": "2021-09-19T16:56:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-14T00:41:10Z",
+        "closedAt": "2021-09-19T02:43:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-14T11:26:27Z",
+        "closedAt": "2021-09-17T05:45:53Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-16T17:10:40Z",
+        "closedAt": "2021-09-17T04:28:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-17T11:19:45Z",
+        "closedAt": "2021-09-17T11:34:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-17T11:28:35Z",
+        "closedAt": "2021-09-24T03:31:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-18T10:40:27Z",
+        "closedAt": "2021-09-19T03:31:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-19T06:42:39Z",
+        "closedAt": "2021-09-20T03:13:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-19T13:05:32Z",
+        "closedAt": "2021-10-14T16:01:49Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-19T18:58:15Z",
+        "closedAt": "2021-09-20T03:24:17Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-20T17:04:30Z",
+        "closedAt": "2021-10-14T16:01:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-21T02:39:31Z",
+        "closedAt": "2021-12-10T00:45:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-21T16:21:42Z",
+        "closedAt": "2021-09-21T21:40:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-22T12:03:21Z",
+        "closedAt": "2021-09-22T12:29:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-23T07:19:20Z",
+        "closedAt": "2021-09-24T03:34:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-23T08:30:49Z",
+        "closedAt": "2021-09-30T03:37:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-24T08:12:30Z",
+        "closedAt": "2021-09-25T04:58:06Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-24T09:56:59Z",
+        "closedAt": "2021-09-25T21:01:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-24T11:42:26Z",
+        "closedAt": "2021-09-30T15:01:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-24T13:23:55Z",
+        "closedAt": "2021-09-24T14:08:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-24T20:15:07Z",
+        "closedAt": "2021-10-08T04:19:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-25T03:00:23Z",
+        "closedAt": "2021-10-08T04:19:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-25T06:19:47Z",
+        "closedAt": "2021-09-25T16:39:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-25T11:59:53Z",
+        "closedAt": "2021-10-02T17:55:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-25T13:00:39Z",
+        "closedAt": "2021-10-08T04:19:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-25T18:29:52Z",
+        "closedAt": "2021-10-29T23:59:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-26T22:40:53Z",
+        "closedAt": "2021-10-29T23:59:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-26T22:43:03Z",
+        "closedAt": "2021-10-04T21:01:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-09-30T03:33:00Z",
+        "closedAt": "2021-09-30T04:05:39Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-03T07:58:16Z",
+        "closedAt": "2021-10-05T07:09:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-03T23:37:54Z",
+        "closedAt": "2021-10-14T15:59:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-05T05:59:27Z",
+        "closedAt": "2021-10-05T17:19:23Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-10T03:46:32Z",
+        "closedAt": "2021-10-25T20:14:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-11T13:18:09Z",
+        "closedAt": "2021-10-14T15:56:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-11T13:24:19Z",
+        "closedAt": "2021-10-14T15:29:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-12T17:45:45Z",
+        "closedAt": "2021-10-12T20:04:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-12T21:00:26Z",
+        "closedAt": "2021-10-14T15:29:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-13T00:30:05Z",
+        "closedAt": "2021-10-14T15:29:06Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-13T00:30:47Z",
+        "closedAt": "2021-10-14T15:37:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-15T16:24:20Z",
+        "closedAt": "2021-10-15T16:56:02Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2021-10-15T20:22:54Z",
+        "closedAt": "2022-08-27T05:55:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-15T20:30:09Z",
+        "closedAt": "2021-10-17T00:05:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-16T16:20:49Z",
+        "closedAt": "2021-10-17T13:01:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-16T20:19:11Z",
+        "closedAt": "2021-10-17T00:05:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-16T20:31:27Z",
+        "closedAt": "2021-10-17T00:05:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-16T23:21:54Z",
+        "closedAt": "2021-10-17T00:05:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-17T16:04:32Z",
+        "closedAt": "2021-10-17T22:27:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-17T16:27:39Z",
+        "closedAt": "2021-10-17T22:02:06Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-18T18:21:11Z",
+        "closedAt": "2021-10-18T23:47:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-23T12:53:43Z",
+        "closedAt": "2021-10-26T19:58:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-23T19:15:14Z",
+        "closedAt": "2021-10-23T19:27:37Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2021-10-26T19:59:54Z",
+        "closedAt": "2022-07-10T23:24:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-28T13:57:28Z",
+        "closedAt": "2022-02-09T20:20:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-29T03:01:11Z",
+        "closedAt": "2021-10-29T22:44:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-30T14:27:05Z",
+        "closedAt": "2021-10-30T17:50:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-10-30T20:52:03Z",
+        "closedAt": "2021-10-30T22:19:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-11-01T02:53:23Z",
+        "closedAt": "2022-02-09T20:20:03Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-11-01T17:33:25Z",
+        "closedAt": "2022-08-02T17:43:56Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2021-11-05T18:59:06Z",
+        "closedAt": "2022-06-03T09:11:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-11-21T16:54:17Z",
+        "closedAt": "2022-06-15T00:28:19Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-11-23T05:56:03Z",
+        "closedAt": "2022-07-01T03:00:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-11-24T01:50:53Z",
+        "closedAt": "2021-12-10T00:49:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-11-28T14:29:17Z",
+        "closedAt": "2021-12-09T23:35:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-12-14T13:08:08Z",
+        "closedAt": "2021-12-26T05:19:58Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2021-12-16T13:34:53Z",
+        "closedAt": "2022-07-09T21:13:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-12-18T07:23:00Z",
+        "closedAt": "2022-05-21T15:07:11Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2021-12-27T23:35:34Z",
+        "closedAt": "2022-09-17T01:58:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2021-12-29T23:56:52Z",
+        "closedAt": "2022-01-13T01:01:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-01-06T09:38:08Z",
+        "closedAt": "2022-06-03T11:24:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-10T08:52:22Z",
+        "closedAt": "2022-01-25T01:19:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-12T21:35:55Z",
+        "closedAt": "2022-05-25T23:00:22Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-01-20T10:54:07Z",
+        "closedAt": "2022-07-09T21:19:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-21T07:03:24Z",
+        "closedAt": "2022-01-25T04:09:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-21T07:32:51Z",
+        "closedAt": "2022-01-25T05:00:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-21T07:39:28Z",
+        "closedAt": "2022-01-25T04:07:28Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-01-24T14:08:45Z",
+        "closedAt": "2022-08-02T17:56:12Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-01-25T04:16:17Z",
+        "closedAt": "2022-02-15T00:08:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-01-30T08:25:55Z",
+        "closedAt": "2022-02-09T20:20:15Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-01-31T08:17:24Z",
+        "closedAt": "2022-07-09T21:23:26Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-02-03T22:45:07Z",
+        "closedAt": "2022-08-13T13:03:55Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-02-12T22:51:39Z",
+        "closedAt": "2022-07-09T21:13:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-02-16T17:32:48Z",
+        "closedAt": "2022-05-29T22:24:59Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-02-24T22:26:40Z",
+        "closedAt": "2022-08-13T16:28:35Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-02-28T18:41:59Z",
+        "closedAt": "2022-05-20T03:22:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-03-02T15:21:37Z",
+        "closedAt": "2022-03-03T02:06:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-03-09T16:54:41Z",
+        "closedAt": "2022-05-20T18:14:42Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-03-20T12:34:16Z",
+        "closedAt": "2022-05-13T16:00:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-03-31T10:35:23Z",
+        "closedAt": "2022-04-01T05:31:29Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-04-03T15:12:27Z",
+        "closedAt": "2022-08-13T16:28:35Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-04-03T18:32:49Z",
+        "closedAt": "2024-09-28T21:15:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-04-08T19:08:01Z",
+        "closedAt": "2022-05-09T20:57:13Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-04-08T19:36:33Z",
+        "closedAt": "2022-06-13T09:08:48Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-04-17T07:56:27Z",
+        "closedAt": "2023-07-14T16:38:49Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-04-18T04:22:10Z",
+        "closedAt": "2022-05-20T03:32:01Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-04-20T09:32:29Z",
+        "closedAt": "2022-05-30T01:01:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-04-20T09:49:27Z",
+        "closedAt": "2022-06-01T04:23:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-04-27T10:57:39Z",
+        "closedAt": "2022-04-27T17:15:25Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-04-29T01:00:04Z",
+        "closedAt": "2022-07-11T02:25:37Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-05-01T11:08:16Z",
+        "closedAt": "2022-06-16T23:01:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-05-04T00:31:20Z",
+        "closedAt": "2022-05-13T22:57:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-05-19T14:14:24Z",
+        "closedAt": "2022-05-20T03:21:19Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-05-20T23:10:35Z",
+        "closedAt": "2023-05-21T23:45:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-05-21T12:25:47Z",
+        "closedAt": "2022-05-21T18:42:20Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-06-02T09:31:41Z",
+        "closedAt": "2022-07-01T03:00:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-04T13:18:08Z",
+        "closedAt": "2022-06-04T14:43:35Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-06-08T09:34:38Z",
+        "closedAt": "2022-08-02T22:27:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-10T06:23:11Z",
+        "closedAt": "2022-06-12T22:25:26Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-06-10T16:47:25Z",
+        "closedAt": "2022-07-09T22:51:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-06-10T20:12:11Z",
+        "closedAt": "2022-06-25T17:55:06Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-12T23:59:41Z",
+        "closedAt": "2022-06-14T02:42:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-14T12:19:01Z",
+        "closedAt": "2022-06-14T18:33:05Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-06-14T13:13:56Z",
+        "closedAt": "2024-12-24T18:30:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-22T03:41:33Z",
+        "closedAt": "2022-06-22T22:41:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-24T23:33:38Z",
+        "closedAt": "2022-06-25T19:15:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-26T10:29:06Z",
+        "closedAt": "2022-07-01T03:00:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-27T18:12:01Z",
+        "closedAt": "2022-06-28T01:14:47Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-06-29T00:42:38Z",
+        "closedAt": "2022-07-11T02:25:37Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-06-30T13:57:28Z",
+        "closedAt": "2022-09-18T01:17:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-06-30T16:09:14Z",
+        "closedAt": "2022-06-30T18:43:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-03T11:09:20Z",
+        "closedAt": "2022-07-04T01:42:57Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-07-04T01:52:51Z",
+        "closedAt": "2022-07-04T12:59:01Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-07-04T01:54:37Z",
+        "closedAt": "2022-07-07T13:58:16Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-04T07:12:39Z",
+        "closedAt": "2023-05-14T00:24:38Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-07-04T13:19:54Z",
+        "closedAt": "2022-07-13T23:55:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-07T13:34:27Z",
+        "closedAt": "2022-07-24T21:24:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-11T08:20:30Z",
+        "closedAt": "2022-07-12T03:28:55Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-07-11T13:07:28Z",
+        "closedAt": "2022-07-12T03:28:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-13T11:32:15Z",
+        "closedAt": "2022-07-13T22:06:29Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-14T11:52:10Z",
+        "closedAt": "2022-07-15T20:44:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-14T17:39:03Z",
+        "closedAt": "2022-07-14T19:54:20Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-15T13:45:59Z",
+        "closedAt": "2022-07-15T21:51:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-15T17:43:35Z",
+        "closedAt": "2022-07-15T21:19:16Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-15T20:09:55Z",
+        "closedAt": "2022-08-13T16:28:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-16T03:34:34Z",
+        "closedAt": "2022-07-16T04:14:40Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-07-16T09:37:28Z",
+        "closedAt": "2024-09-27T22:23:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-16T23:20:24Z",
+        "closedAt": "2022-07-30T21:23:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-17T19:13:58Z",
+        "closedAt": "2022-07-25T02:44:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-18T03:33:46Z",
+        "closedAt": "2022-07-27T05:06:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-18T16:37:06Z",
+        "closedAt": "2022-07-27T05:06:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-19T06:03:05Z",
+        "closedAt": "2022-07-25T02:44:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-20T04:45:07Z",
+        "closedAt": "2022-07-25T01:53:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-21T05:22:57Z",
+        "closedAt": "2022-07-25T02:44:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-22T07:03:15Z",
+        "closedAt": "2022-07-23T13:39:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-22T08:57:12Z",
+        "closedAt": "2022-07-28T12:01:00Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-07-25T04:10:46Z",
+        "closedAt": "2022-07-25T21:37:08Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-26T15:21:18Z",
+        "closedAt": "2022-09-27T11:41:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-27T19:25:49Z",
+        "closedAt": "2022-07-27T23:46:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-07-30T14:35:48Z",
+        "closedAt": "2022-07-30T21:52:06Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-07-31T20:35:01Z",
+        "closedAt": "2022-10-01T01:45:34Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2022-08-02T18:11:56Z",
+        "closedAt": "2024-04-30T21:12:41Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-02T18:55:01Z",
+        "closedAt": "2022-08-02T22:27:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-04T07:53:50Z",
+        "closedAt": "2022-08-04T17:13:04Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-04T14:22:59Z",
+        "closedAt": "2023-05-21T22:27:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2022-08-07T11:31:55Z",
+        "closedAt": "2022-08-07T11:32:50Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-12T12:31:04Z",
+        "closedAt": "2022-08-13T22:39:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-13T12:18:12Z",
+        "closedAt": "2022-08-13T13:11:27Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-13T15:06:07Z",
+        "closedAt": "2022-10-03T12:30:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-14T04:27:12Z",
+        "closedAt": "2022-08-14T15:37:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-14T12:39:58Z",
+        "closedAt": "2022-08-14T14:19:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-15T02:06:09Z",
+        "closedAt": "2022-08-15T13:03:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-15T02:18:53Z",
+        "closedAt": "2022-08-15T17:13:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-15T16:45:32Z",
+        "closedAt": "2023-02-07T01:34:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-15T20:02:37Z",
+        "closedAt": "2022-08-15T21:02:10Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-16T01:58:13Z",
+        "closedAt": "2022-09-07T08:51:58Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-16T11:36:34Z",
+        "closedAt": "2023-04-08T18:45:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-16T15:35:03Z",
+        "closedAt": "2022-08-16T16:59:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-16T18:05:00Z",
+        "closedAt": "2022-08-16T21:49:02Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2022-08-18T14:34:38Z",
+        "closedAt": "2022-08-25T03:51:10Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-19T04:25:01Z",
+        "closedAt": "2024-12-24T18:43:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-20T05:09:31Z",
+        "closedAt": "2022-09-04T15:54:49Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-20T16:21:52Z",
+        "closedAt": "2022-09-02T13:23:55Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-20T23:08:52Z",
+        "closedAt": "2022-08-22T19:11:29Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-22T17:08:28Z",
+        "closedAt": "2022-09-27T22:34:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-08-23T10:17:01Z",
+        "closedAt": "2022-10-09T02:21:52Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-08-23T15:37:29Z",
+        "closedAt": "2022-09-02T11:25:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-24T15:11:21Z",
+        "closedAt": "2022-08-24T15:36:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-29T09:46:48Z",
+        "closedAt": "2022-08-31T22:12:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-30T05:55:10Z",
+        "closedAt": "2022-09-01T02:48:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-08-30T07:56:20Z",
+        "closedAt": "2022-08-31T22:37:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-02T00:40:32Z",
+        "closedAt": "2022-09-02T11:26:16Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-03T00:32:49Z",
+        "closedAt": "2023-11-12T21:06:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-04T13:27:05Z",
+        "closedAt": "2022-09-04T17:05:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-04T15:14:16Z",
+        "closedAt": "2022-09-04T18:39:43Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-04T16:25:30Z",
+        "closedAt": "2023-05-25T15:42:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-04T17:49:42Z",
+        "closedAt": "2022-09-13T10:54:39Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2022-09-04T22:10:44Z",
+        "closedAt": "2022-09-07T02:03:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-04T22:17:55Z",
+        "closedAt": "2022-09-13T10:57:26Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-05T22:46:33Z",
+        "closedAt": "2023-05-24T00:39:38Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-06T10:16:24Z",
+        "closedAt": "2022-09-07T02:44:47Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-11T14:19:05Z",
+        "closedAt": "2022-09-16T21:04:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-12T18:07:03Z",
+        "closedAt": "2022-09-12T18:30:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-13T18:03:32Z",
+        "closedAt": "2022-09-14T11:29:05Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-14T08:42:58Z",
+        "closedAt": "2022-09-14T09:36:35Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-16T07:39:40Z",
+        "closedAt": "2023-09-04T00:32:03Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-09-16T11:39:32Z",
+        "closedAt": "2022-09-17T02:07:32Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-16T13:59:36Z",
+        "closedAt": "2022-12-08T02:09:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-17T04:09:43Z",
+        "closedAt": "2022-09-18T01:42:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-18T12:46:53Z",
+        "closedAt": "2022-10-01T15:12:21Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-18T12:49:09Z",
+        "closedAt": "2023-11-12T20:55:44Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-19T09:53:36Z",
+        "closedAt": "2022-11-28T06:47:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-20T01:33:54Z",
+        "closedAt": "2022-09-22T01:37:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-27T12:37:22Z",
+        "closedAt": "2022-09-29T02:44:26Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-09-28T20:33:01Z",
+        "closedAt": "2022-10-01T00:27:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-09-30T06:08:58Z",
+        "closedAt": "2022-09-30T11:32:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-03T22:02:48Z",
+        "closedAt": "2022-10-26T01:35:30Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-06T11:58:42Z",
+        "closedAt": "2022-10-25T12:39:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-07T10:12:16Z",
+        "closedAt": "2022-11-09T00:36:22Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-07T16:23:12Z",
+        "closedAt": "2022-10-08T11:38:46Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-08T14:21:28Z",
+        "closedAt": "2022-10-27T23:06:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-10T11:47:17Z",
+        "closedAt": "2022-10-20T09:02:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-11T16:26:30Z",
+        "closedAt": "2022-10-12T23:43:22Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2022-10-13T21:30:14Z",
+        "closedAt": "2022-10-14T18:38:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-14T11:29:01Z",
+        "closedAt": "2022-10-14T15:11:02Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-10-15T06:09:50Z",
+        "closedAt": "2023-04-24T18:49:46Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-20T07:15:39Z",
+        "closedAt": "2023-04-24T18:53:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-23T13:51:03Z",
+        "closedAt": "2022-10-26T02:44:19Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-24T07:56:48Z",
+        "closedAt": "2022-11-10T13:09:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-10-29T10:27:11Z",
+        "closedAt": "2022-11-07T12:10:03Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-10-31T13:34:45Z",
+        "closedAt": "2023-04-08T18:45:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-01T16:47:11Z",
+        "closedAt": "2022-11-18T18:54:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-02T14:36:27Z",
+        "closedAt": "2022-11-02T22:38:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-02T19:06:40Z",
+        "closedAt": "2022-11-23T02:34:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-05T16:02:18Z",
+        "closedAt": "2022-11-08T13:08:10Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-11-05T19:31:27Z",
+        "closedAt": "2022-11-07T12:07:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-05T19:42:08Z",
+        "closedAt": "2022-11-07T12:05:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-05T20:55:46Z",
+        "closedAt": "2022-11-07T12:04:50Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-06T06:34:15Z",
+        "closedAt": "2022-11-19T16:40:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-07T20:24:55Z",
+        "closedAt": "2022-11-18T13:42:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-09T05:14:23Z",
+        "closedAt": "2022-11-18T17:50:26Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-09T09:28:50Z",
+        "closedAt": "2022-11-09T13:05:30Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-09T09:37:04Z",
+        "closedAt": "2023-05-14T02:11:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-10T10:39:31Z",
+        "closedAt": "2022-11-10T13:38:43Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-10T13:02:05Z",
+        "closedAt": "2022-11-29T18:25:23Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-10T16:08:56Z",
+        "closedAt": "2022-11-29T01:46:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-10T18:14:16Z",
+        "closedAt": "2022-11-11T20:51:17Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-14T09:09:40Z",
+        "closedAt": "2022-11-15T22:36:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-14T11:13:09Z",
+        "closedAt": "2022-11-15T16:45:55Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-14T11:15:47Z",
+        "closedAt": "2022-12-14T01:24:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-17T11:03:55Z",
+        "closedAt": "2022-11-17T13:25:09Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2022-11-19T14:23:03Z",
+        "closedAt": "2023-04-24T18:56:58Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-11-20T08:12:37Z",
+        "closedAt": "2023-12-19T16:55:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-21T15:30:27Z",
+        "closedAt": "2022-11-21T22:24:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-25T12:52:48Z",
+        "closedAt": "2022-11-25T14:41:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-25T20:39:51Z",
+        "closedAt": "2022-12-18T21:51:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-28T03:25:12Z",
+        "closedAt": "2022-12-02T18:06:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-28T05:52:41Z",
+        "closedAt": "2022-11-30T00:25:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-28T16:30:41Z",
+        "closedAt": "2022-11-29T01:49:10Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-11-29T03:57:29Z",
+        "closedAt": "2022-11-29T13:25:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-01T10:53:20Z",
+        "closedAt": "2022-12-02T21:27:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-01T17:46:26Z",
+        "closedAt": "2023-02-02T01:04:44Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-12-02T02:40:55Z",
+        "closedAt": "2022-12-06T02:01:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-02T15:03:26Z",
+        "closedAt": "2022-12-02T16:29:24Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-02T16:26:25Z",
+        "closedAt": "2022-12-02T18:06:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-03T05:39:03Z",
+        "closedAt": "2022-12-03T05:46:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-04T02:22:54Z",
+        "closedAt": "2022-12-04T03:01:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-06T16:26:01Z",
+        "closedAt": "2022-12-08T02:35:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-07T02:03:27Z",
+        "closedAt": "2022-12-09T09:41:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-09T04:29:53Z",
+        "closedAt": "2022-12-09T09:41:21Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-09T12:22:09Z",
+        "closedAt": "2022-12-09T23:04:00Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-12T09:20:00Z",
+        "closedAt": "2022-12-14T01:24:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-13T09:59:50Z",
+        "closedAt": "2022-12-22T03:09:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-13T19:05:22Z",
+        "closedAt": "2022-12-14T23:59:47Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2022-12-14T23:18:03Z",
+        "closedAt": "2022-12-18T21:48:18Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-15T12:37:57Z",
+        "closedAt": "2024-12-24T18:54:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-18T19:46:56Z",
+        "closedAt": "2022-12-22T03:09:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-19T17:37:45Z",
+        "closedAt": "2022-12-22T03:09:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-20T09:37:27Z",
+        "closedAt": "2023-03-18T01:24:58Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-20T17:34:54Z",
+        "closedAt": "2024-03-22T18:33:39Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-22T04:04:45Z",
+        "closedAt": "2022-12-22T04:48:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-22T06:09:32Z",
+        "closedAt": "2023-01-12T12:24:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-23T14:52:01Z",
+        "closedAt": "2023-01-26T00:05:01Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2022-12-27T08:52:36Z",
+        "closedAt": "2024-12-24T18:57:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-30T15:10:03Z",
+        "closedAt": "2023-01-07T07:44:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2022-12-31T17:41:23Z",
+        "closedAt": "2023-01-24T00:04:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-02T11:26:06Z",
+        "closedAt": "2023-01-13T23:14:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-03T07:00:50Z",
+        "closedAt": "2023-01-27T04:45:53Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-07T06:56:23Z",
+        "closedAt": "2023-01-26T00:54:45Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-09T03:49:23Z",
+        "closedAt": "2023-05-21T23:45:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-09T06:24:15Z",
+        "closedAt": "2023-01-13T23:31:49Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-12T04:08:30Z",
+        "closedAt": "2023-04-25T12:06:47Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2023-01-12T05:19:09Z",
+        "closedAt": "2023-08-19T21:52:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-13T03:32:47Z",
+        "closedAt": "2023-02-01T23:41:56Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-13T09:26:43Z",
+        "closedAt": "2023-05-24T23:02:00Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-14T09:41:06Z",
+        "closedAt": "2023-05-17T08:51:23Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-14T22:18:16Z",
+        "closedAt": "2023-01-27T19:43:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-16T15:34:42Z",
+        "closedAt": "2023-01-26T00:59:39Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-17T06:39:44Z",
+        "closedAt": "2023-01-17T12:17:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-17T13:19:12Z",
+        "closedAt": "2023-04-24T19:05:10Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-19T04:12:52Z",
+        "closedAt": "2023-03-28T23:32:58Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-01-20T18:31:11Z",
+        "closedAt": "2023-05-14T00:24:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-25T18:49:36Z",
+        "closedAt": "2023-04-21T19:24:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-26T00:00:15Z",
+        "closedAt": "2023-01-27T05:21:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-27T01:22:26Z",
+        "closedAt": "2023-01-27T05:21:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-01-27T12:02:36Z",
+        "closedAt": "2023-01-27T19:08:13Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-01-28T07:29:24Z",
+        "closedAt": "2023-02-04T11:40:52Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-01-30T17:18:45Z",
+        "closedAt": "2024-09-25T22:54:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-02T00:25:53Z",
+        "closedAt": "2023-02-02T01:45:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-02T01:21:59Z",
+        "closedAt": "2023-02-24T02:23:07Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-02-03T08:03:23Z",
+        "closedAt": "2023-02-06T12:06:39Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-02-04T10:48:03Z",
+        "closedAt": "2023-02-07T01:34:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-07T09:32:38Z",
+        "closedAt": "2023-02-07T23:24:30Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-02-07T13:28:32Z",
+        "closedAt": "2023-04-08T18:45:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-07T13:33:23Z",
+        "closedAt": "2023-04-08T13:16:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-11T20:06:22Z",
+        "closedAt": "2023-03-04T23:39:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-12T13:31:24Z",
+        "closedAt": "2023-05-14T02:41:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-16T17:12:54Z",
+        "closedAt": "2023-03-10T19:56:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-18T21:58:11Z",
+        "closedAt": "2025-02-07T22:53:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-02-24T06:30:40Z",
+        "closedAt": "2023-03-09T23:28:55Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-02-28T02:44:48Z",
+        "closedAt": "2024-01-04T06:21:14Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-03-01T05:33:05Z",
+        "closedAt": "2023-04-11T23:20:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-03-02T03:33:45Z",
+        "closedAt": "2024-04-30T21:08:15Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-03-08T08:40:52Z",
+        "closedAt": "2024-12-24T18:46:49Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-09T08:06:00Z",
+        "closedAt": "2023-03-10T20:15:51Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-03-09T10:06:04Z",
+        "closedAt": "2024-04-30T21:04:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-12T20:13:50Z",
+        "closedAt": "2023-04-08T21:15:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-13T05:49:51Z",
+        "closedAt": "2025-02-07T22:53:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-15T03:02:19Z",
+        "closedAt": "2023-03-15T03:18:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-16T12:04:11Z",
+        "closedAt": "2023-04-21T19:24:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-17T16:14:45Z",
+        "closedAt": "2023-03-28T23:57:46Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-03-19T14:16:55Z",
+        "closedAt": "2023-05-14T00:10:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-20T08:01:18Z",
+        "closedAt": "2025-02-07T22:52:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-23T04:25:16Z",
+        "closedAt": "2023-03-31T22:00:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-03-28T07:31:47Z",
+        "closedAt": "2023-03-28T23:28:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-04T03:00:22Z",
+        "closedAt": "2023-04-08T02:58:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-04T05:04:20Z",
+        "closedAt": "2023-04-07T20:58:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-05T04:31:34Z",
+        "closedAt": "2023-04-07T21:15:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-05T04:49:38Z",
+        "closedAt": "2023-04-05T04:50:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-06T08:11:38Z",
+        "closedAt": "2023-04-07T14:07:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-09T12:22:57Z",
+        "closedAt": "2023-04-16T17:31:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-09T21:56:05Z",
+        "closedAt": "2023-05-17T08:32:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-11T16:48:00Z",
+        "closedAt": "2023-05-05T18:58:49Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-04-12T03:32:21Z",
+        "closedAt": "2023-04-21T20:20:40Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-04-16T06:07:43Z",
+        "closedAt": "2023-04-20T07:14:41Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-04-17T14:25:16Z",
+        "closedAt": "2023-12-04T21:09:27Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-04-18T11:11:49Z",
+        "closedAt": "2023-04-19T18:18:29Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2023-04-21T05:48:09Z",
+        "closedAt": "2023-08-17T00:06:58Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-04-21T06:01:54Z",
+        "closedAt": "2023-05-01T12:55:34Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-04-27T05:02:27Z",
+        "closedAt": "2023-05-01T16:23:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-04-28T07:33:05Z",
+        "closedAt": "2023-04-29T23:40:38Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-05-02T14:34:28Z",
+        "closedAt": "2023-05-21T22:27:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-03T23:20:50Z",
+        "closedAt": "2023-05-04T14:23:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-05T06:59:44Z",
+        "closedAt": "2023-05-05T20:38:44Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-07T10:39:01Z",
+        "closedAt": "2023-05-24T00:39:39Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-07T19:34:26Z",
+        "closedAt": "2023-05-11T03:52:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-08T17:03:42Z",
+        "closedAt": "2023-05-13T18:44:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-08T17:05:11Z",
+        "closedAt": "2023-07-12T23:29:37Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-09T09:46:22Z",
+        "closedAt": "2023-05-21T23:45:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-09T16:20:58Z",
+        "closedAt": "2023-05-13T18:47:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-14T19:49:16Z",
+        "closedAt": "2023-05-14T20:14:03Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-21T22:39:08Z",
+        "closedAt": "2023-06-25T23:47:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-25T02:30:37Z",
+        "closedAt": "2023-05-25T13:05:08Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-25T06:26:09Z",
+        "closedAt": "2023-05-25T12:28:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-26T09:06:06Z",
+        "closedAt": "2023-06-16T16:44:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-26T09:43:11Z",
+        "closedAt": "2023-05-26T10:24:33Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-05-27T21:23:27Z",
+        "closedAt": "2024-10-09T12:49:49Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-05-30T07:31:33Z",
+        "closedAt": "2023-07-20T10:29:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-03T12:21:37Z",
+        "closedAt": "2023-06-16T11:00:18Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-03T17:14:41Z",
+        "closedAt": "2023-06-03T19:04:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-05T00:37:35Z",
+        "closedAt": "2023-06-16T11:45:50Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-05T17:24:49Z",
+        "closedAt": "2023-06-05T20:22:24Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-06T12:01:45Z",
+        "closedAt": "2023-06-06T13:32:29Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-08T17:29:24Z",
+        "closedAt": "2023-07-24T19:47:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-14T11:02:43Z",
+        "closedAt": "2023-06-16T11:00:18Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-18T22:54:07Z",
+        "closedAt": "2023-06-19T20:30:29Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-20T05:39:38Z",
+        "closedAt": "2023-08-23T04:17:43Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-20T11:34:56Z",
+        "closedAt": "2023-06-30T23:15:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-21T02:40:26Z",
+        "closedAt": "2023-06-22T13:21:50Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-26T20:11:42Z",
+        "closedAt": "2023-09-03T23:31:50Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-06-26T20:15:07Z",
+        "closedAt": "2023-06-29T13:45:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-28T01:50:36Z",
+        "closedAt": "2023-08-23T04:17:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-06-28T06:57:29Z",
+        "closedAt": "2023-06-28T11:29:40Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-07-03T10:17:22Z",
+        "closedAt": "2023-12-20T20:42:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-05T20:05:25Z",
+        "closedAt": "2023-07-10T02:02:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-09T16:57:47Z",
+        "closedAt": "2023-07-09T17:44:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-11T12:28:43Z",
+        "closedAt": "2023-07-11T13:41:05Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2023-07-13T01:49:01Z",
+        "closedAt": "2023-07-13T11:55:47Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-07-13T14:24:13Z",
+        "closedAt": "2023-07-14T17:23:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-13T15:32:59Z",
+        "closedAt": "2023-07-13T15:47:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-14T17:55:46Z",
+        "closedAt": "2023-07-14T18:15:13Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-07-19T04:52:21Z",
+        "closedAt": "2023-07-27T21:37:55Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-07-19T19:12:36Z",
+        "closedAt": "2023-12-12T15:44:47Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-07-20T07:03:49Z",
+        "closedAt": "2023-08-04T16:01:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-20T12:50:36Z",
+        "closedAt": "2023-07-23T18:50:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-20T17:13:36Z",
+        "closedAt": "2023-07-27T15:34:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-21T05:31:57Z",
+        "closedAt": "2023-07-27T12:42:07Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-07-28T10:53:05Z",
+        "closedAt": "2023-08-14T16:36:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-29T15:11:16Z",
+        "closedAt": "2023-08-02T12:40:20Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2023-07-30T09:07:35Z",
+        "closedAt": "2023-07-31T23:45:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-30T13:33:50Z",
+        "closedAt": "2023-07-31T23:45:50Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-07-30T16:59:34Z",
+        "closedAt": "2023-07-31T23:57:02Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-07-30T19:13:32Z",
+        "closedAt": "2023-12-10T00:09:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-07-30T22:20:24Z",
+        "closedAt": "2023-08-26T22:13:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-01T08:00:00Z",
+        "closedAt": "2023-08-01T22:30:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-01T08:14:33Z",
+        "closedAt": "2023-08-01T21:39:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-02T13:19:01Z",
+        "closedAt": "2023-08-03T10:48:27Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-03T07:16:09Z",
+        "closedAt": "2023-08-03T13:56:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-10T20:59:25Z",
+        "closedAt": "2023-08-21T14:52:05Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2023-08-14T15:41:12Z",
+        "closedAt": "2023-09-01T23:08:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-18T03:41:07Z",
+        "closedAt": "2023-08-23T04:21:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-18T23:44:01Z",
+        "closedAt": "2023-08-19T03:37:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-19T08:51:40Z",
+        "closedAt": "2024-04-30T20:41:27Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-20T11:16:57Z",
+        "closedAt": "2023-12-19T19:00:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-20T12:58:56Z",
+        "closedAt": "2024-10-14T02:04:25Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-20T23:45:53Z",
+        "closedAt": "2023-12-19T15:35:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-24T19:21:28Z",
+        "closedAt": "2023-08-25T03:45:21Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-24T23:24:35Z",
+        "closedAt": "2023-08-25T02:52:56Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-25T16:51:48Z",
+        "closedAt": "2024-04-30T20:39:52Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-08-26T07:32:38Z",
+        "closedAt": "2024-08-11T21:15:25Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-08-28T02:29:48Z",
+        "closedAt": "2023-08-29T16:07:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-28T05:23:17Z",
+        "closedAt": "2024-12-24T20:12:19Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-08-28T09:24:18Z",
+        "closedAt": "2023-08-28T09:33:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-02T08:28:50Z",
+        "closedAt": "2023-11-29T17:23:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-04T06:50:22Z",
+        "closedAt": "2023-09-15T01:21:53Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-04T09:25:57Z",
+        "closedAt": "2023-09-04T21:14:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-08T03:47:16Z",
+        "closedAt": "2023-09-15T03:03:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-09T01:58:46Z",
+        "closedAt": "2023-09-15T02:41:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-11T16:20:53Z",
+        "closedAt": "2023-09-26T12:51:36Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-12T07:22:15Z",
+        "closedAt": "2023-09-14T12:39:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-12T15:49:00Z",
+        "closedAt": "2023-09-15T00:55:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-14T07:53:06Z",
+        "closedAt": "2024-09-28T21:15:36Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-16T13:21:34Z",
+        "closedAt": "2023-09-16T14:06:45Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-16T14:47:15Z",
+        "closedAt": "2023-09-16T21:15:46Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-09-17T22:40:16Z",
+        "closedAt": "2023-12-12T15:48:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-21T17:58:17Z",
+        "closedAt": "2023-12-12T15:08:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-22T07:54:48Z",
+        "closedAt": "2023-11-08T00:01:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-26T04:59:08Z",
+        "closedAt": "2023-12-12T12:35:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-26T09:19:26Z",
+        "closedAt": "2023-12-08T21:23:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-09-27T20:33:40Z",
+        "closedAt": "2023-09-27T20:57:58Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-09-28T01:47:08Z",
+        "closedAt": "2024-12-27T00:50:06Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-03T13:38:49Z",
+        "closedAt": "2023-12-08T21:20:50Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-07T13:44:16Z",
+        "closedAt": "2023-10-23T12:09:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-10T11:10:21Z",
+        "closedAt": "2023-12-12T13:52:10Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-10T16:07:04Z",
+        "closedAt": "2024-10-14T02:04:25Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-18T23:07:05Z",
+        "closedAt": "2023-11-10T10:26:07Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-19T21:59:34Z",
+        "closedAt": "2023-11-30T18:41:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-23T11:35:14Z",
+        "closedAt": "2023-10-23T12:14:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-25T21:07:24Z",
+        "closedAt": "2023-10-25T21:57:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-26T07:14:31Z",
+        "closedAt": "2023-12-08T21:22:18Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-26T11:06:22Z",
+        "closedAt": "2023-12-19T14:39:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-29T02:45:35Z",
+        "closedAt": "2023-12-15T01:34:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-10-29T13:53:32Z",
+        "closedAt": "2023-10-29T21:41:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-29T13:57:42Z",
+        "closedAt": "2023-12-10T00:09:31Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-31T05:47:08Z",
+        "closedAt": "2023-12-12T13:54:14Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-10-31T11:37:02Z",
+        "closedAt": "2024-04-24T00:59:23Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-11-02T15:04:03Z",
+        "closedAt": "2023-11-09T13:37:43Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2023-11-02T16:49:29Z",
+        "closedAt": "2024-07-23T21:19:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-11-09T16:03:50Z",
+        "closedAt": "2023-11-09T21:04:19Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-11-10T09:10:01Z",
+        "closedAt": "2023-11-28T00:54:17Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-11-11T03:51:07Z",
+        "closedAt": "2023-12-08T21:21:32Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-11-20T11:36:24Z",
+        "closedAt": "2023-12-19T14:36:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-11-26T00:00:24Z",
+        "closedAt": "2023-11-29T22:34:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-11-28T09:43:15Z",
+        "closedAt": "2023-11-28T16:48:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2023-12-04T02:36:28Z",
+        "closedAt": "2023-12-05T15:08:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-04T03:06:16Z",
+        "closedAt": "2023-12-10T10:13:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-04T07:46:44Z",
+        "closedAt": "2023-12-04T13:43:47Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-12-04T18:52:35Z",
+        "closedAt": "2023-12-11T18:33:31Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2023-12-07T02:37:51Z",
+        "closedAt": "2023-12-08T01:48:20Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-12-07T18:01:59Z",
+        "closedAt": "2023-12-09T23:04:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-07T21:02:45Z",
+        "closedAt": "2023-12-10T18:31:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-10T00:20:51Z",
+        "closedAt": "2024-03-15T20:13:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-10T08:51:17Z",
+        "closedAt": "2023-12-11T16:31:07Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2023-12-10T18:11:45Z",
+        "closedAt": "2024-04-24T00:59:23Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-11T09:37:26Z",
+        "closedAt": "2023-12-11T09:39:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-11T14:18:46Z",
+        "closedAt": "2023-12-11T14:45:17Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2023-12-12T10:46:56Z",
+        "closedAt": "2023-12-12T12:58:21Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-01-02T05:29:06Z",
+        "closedAt": "2024-04-30T20:33:00Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-01-04T07:42:46Z",
+        "closedAt": "2024-01-06T00:51:11Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-01-04T11:17:20Z",
+        "closedAt": "2024-02-05T16:43:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-06T13:43:15Z",
+        "closedAt": "2024-01-12T15:47:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-07T20:26:26Z",
+        "closedAt": "2025-02-07T22:51:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-13T02:35:46Z",
+        "closedAt": "2024-02-05T16:40:57Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-01-13T23:31:59Z",
+        "closedAt": "2024-01-14T10:22:13Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-01-16T06:52:52Z",
+        "closedAt": "2024-09-28T21:15:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-17T13:14:49Z",
+        "closedAt": "2024-01-27T12:40:37Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-18T23:50:27Z",
+        "closedAt": "2024-01-18T23:54:59Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-01-23T07:53:52Z",
+        "closedAt": "2024-12-27T00:53:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-25T20:14:37Z",
+        "closedAt": "2024-01-27T01:26:06Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-01-26T22:43:37Z",
+        "closedAt": "2024-06-01T19:54:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-01-27T15:08:18Z",
+        "closedAt": "2024-01-27T15:15:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-01T18:01:12Z",
+        "closedAt": "2024-02-01T19:42:09Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-02-06T09:41:03Z",
+        "closedAt": "2024-04-30T20:21:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-06T21:01:03Z",
+        "closedAt": "2024-02-08T22:59:31Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-02-10T14:55:14Z",
+        "closedAt": "2024-02-10T16:57:49Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-02-11T22:29:39Z",
+        "closedAt": "2024-05-05T09:03:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-18T13:03:26Z",
+        "closedAt": "2024-02-28T21:18:24Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-22T03:00:38Z",
+        "closedAt": "2024-04-24T01:03:39Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2024-02-24T15:33:34Z",
+        "closedAt": "2024-02-25T19:10:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-26T20:16:41Z",
+        "closedAt": "2024-02-27T15:59:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-27T00:34:43Z",
+        "closedAt": "2024-02-28T17:49:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-29T10:27:20Z",
+        "closedAt": "2024-02-29T15:57:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-29T11:46:47Z",
+        "closedAt": "2024-02-29T16:28:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-02-29T20:18:57Z",
+        "closedAt": "2024-03-01T00:25:49Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-04T17:37:27Z",
+        "closedAt": "2024-03-05T17:50:27Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-03-07T11:48:47Z",
+        "closedAt": "2024-04-26T18:34:03Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-03-13T11:26:19Z",
+        "closedAt": "2024-03-15T12:33:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-13T22:24:49Z",
+        "closedAt": "2025-01-05T21:50:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-03-15T14:38:28Z",
+        "closedAt": "2024-05-06T13:22:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-03-15T16:01:36Z",
+        "closedAt": "2024-03-22T18:33:39Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-18T21:09:18Z",
+        "closedAt": "2024-03-19T19:46:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2024-03-20T02:58:38Z",
+        "closedAt": "2024-03-20T03:10:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-22T13:39:00Z",
+        "closedAt": "2024-03-22T19:50:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-23T06:28:48Z",
+        "closedAt": "2024-03-23T15:29:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-03T12:49:45Z",
+        "closedAt": "2024-04-03T14:57:17Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-04-04T10:41:34Z",
+        "closedAt": "2024-04-21T00:41:45Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-04-05T06:03:56Z",
+        "closedAt": "2024-12-24T18:27:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-06T21:03:17Z",
+        "closedAt": "2024-04-22T01:19:25Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-04-06T21:48:20Z",
+        "closedAt": "2024-05-04T02:15:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-04-11T08:01:33Z",
+        "closedAt": "2024-05-01T12:39:14Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-04-18T10:25:11Z",
+        "closedAt": "2024-04-26T18:34:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-19T07:13:03Z",
+        "closedAt": "2024-05-01T12:39:14Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-19T13:32:50Z",
+        "closedAt": "2024-07-07T21:12:49Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-04-21T06:53:43Z",
+        "closedAt": "2024-09-27T21:09:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-24T05:49:11Z",
+        "closedAt": "2024-04-30T00:07:39Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-04-29T13:55:16Z",
+        "closedAt": "2024-06-07T05:50:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-04-30T01:05:50Z",
+        "closedAt": "2025-02-07T22:48:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-05-01T15:17:19Z",
+        "closedAt": "2024-06-01T18:02:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-05-04T10:50:59Z",
+        "closedAt": "2024-05-08T00:29:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-05-05T17:24:21Z",
+        "closedAt": "2024-05-07T23:59:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-05-08T10:11:35Z",
+        "closedAt": "2024-05-08T12:29:19Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-05-11T22:20:09Z",
+        "closedAt": "2024-05-12T19:24:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-05-22T14:23:15Z",
+        "closedAt": "2024-06-01T17:52:33Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-06-03T23:13:19Z",
+        "closedAt": "2024-11-23T20:05:51Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-06-04T10:29:51Z",
+        "closedAt": "2024-06-05T12:48:31Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-06-05T03:04:28Z",
+        "closedAt": "2024-06-06T09:32:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-07T19:16:41Z",
+        "closedAt": "2024-06-08T10:28:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-11T03:13:47Z",
+        "closedAt": "2024-06-11T03:19:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-17T03:32:46Z",
+        "closedAt": "2024-06-28T21:10:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-19T02:03:03Z",
+        "closedAt": "2024-06-27T00:48:42Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-06-24T02:01:48Z",
+        "closedAt": "2025-04-19T13:45:54Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-06-27T12:46:16Z",
+        "closedAt": "2024-06-30T20:21:19Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-28T09:07:09Z",
+        "closedAt": "2024-06-28T21:08:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-29T11:40:39Z",
+        "closedAt": "2024-07-09T09:04:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-06-29T21:49:57Z",
+        "closedAt": "2024-07-05T22:52:13Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-06-30T05:43:03Z",
+        "closedAt": "2024-08-21T00:58:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-07-07T01:31:49Z",
+        "closedAt": "2024-07-08T01:07:20Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-07-11T16:58:23Z",
+        "closedAt": "2024-07-19T21:32:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-07-12T06:34:47Z",
+        "closedAt": "2024-07-17T06:39:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-07-12T15:51:46Z",
+        "closedAt": "2024-07-13T19:36:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-07-14T03:40:26Z",
+        "closedAt": "2024-07-19T21:01:31Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-07-26T02:40:51Z",
+        "closedAt": "2024-08-04T17:06:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-08-16T08:43:56Z",
+        "closedAt": "2024-08-19T12:06:10Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-08-22T12:43:33Z",
+        "closedAt": "2024-09-01T22:44:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-08-23T13:25:47Z",
+        "closedAt": "2024-08-25T18:36:14Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-08-24T18:37:01Z",
+        "closedAt": "2024-08-25T17:40:16Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-08-25T23:27:16Z",
+        "closedAt": "2024-08-26T22:10:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-08-29T17:51:16Z",
+        "closedAt": "2024-08-31T21:32:49Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-08-31T20:03:31Z",
+        "closedAt": "2024-08-31T20:24:48Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-09-02T05:54:50Z",
+        "closedAt": "2024-09-26T05:11:53Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-09-02T09:07:42Z",
+        "closedAt": "2024-09-28T21:15:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-09-03T03:34:34Z",
+        "closedAt": "2024-09-28T21:15:36Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2024-09-11T07:01:22Z",
+        "closedAt": "2024-09-27T21:30:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-09-12T14:03:56Z",
+        "closedAt": "2024-09-25T22:42:17Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-09-13T15:35:53Z",
+        "closedAt": "2024-09-25T22:56:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-09-13T15:40:49Z",
+        "closedAt": "2024-09-27T21:09:20Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-09-13T15:42:50Z",
+        "closedAt": "2024-09-25T22:56:07Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-09-22T01:46:30Z",
+        "closedAt": "2024-10-08T21:46:18Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2024-09-24T10:30:55Z",
+        "closedAt": "2024-09-24T12:25:10Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-09-30T09:09:45Z",
+        "closedAt": "2024-09-30T14:53:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-03T13:44:41Z",
+        "closedAt": "2024-10-21T17:55:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-08T17:52:56Z",
+        "closedAt": "2024-10-21T14:57:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-09T06:26:43Z",
+        "closedAt": "2024-10-21T15:43:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-14T13:46:18Z",
+        "closedAt": "2024-10-14T15:19:08Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-20T10:34:50Z",
+        "closedAt": "2024-10-23T16:12:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-21T23:09:48Z",
+        "closedAt": "2024-10-27T16:52:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-25T05:08:26Z",
+        "closedAt": "2024-10-25T23:10:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-27T08:19:29Z",
+        "closedAt": "2024-10-27T18:24:00Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-10-29T09:01:28Z",
+        "closedAt": "2024-11-15T12:48:33Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-11-12T05:01:42Z",
+        "closedAt": "2024-12-30T19:14:43Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-11-13T09:40:52Z",
+        "closedAt": "2024-11-14T00:11:50Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-11-13T14:35:38Z",
+        "closedAt": "2024-11-14T00:24:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-11-15T04:55:50Z",
+        "closedAt": "2024-11-23T20:04:22Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-11-15T08:06:51Z",
+        "closedAt": "2025-01-05T21:49:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-11-15T14:57:57Z",
+        "closedAt": "2024-11-18T23:39:48Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2024-11-23T02:05:04Z",
+        "closedAt": "2024-11-23T18:44:41Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-12-03T20:54:09Z",
+        "closedAt": "2024-12-24T18:06:10Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-12-15T16:40:24Z",
+        "closedAt": "2024-12-16T10:03:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-12-19T10:21:18Z",
+        "closedAt": "2024-12-19T16:30:38Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2024-12-22T14:54:34Z",
+        "closedAt": "2024-12-23T14:21:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-12-22T23:27:12Z",
+        "closedAt": "2025-01-05T21:47:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-12-27T08:55:23Z",
+        "closedAt": "2024-12-31T08:42:15Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-01-01T14:37:17Z",
+        "closedAt": "2025-01-16T14:41:59Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-11T23:05:00Z",
+        "closedAt": "2025-01-15T01:08:34Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-01-12T21:21:12Z",
+        "closedAt": "2025-02-16T21:42:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-13T01:20:05Z",
+        "closedAt": "2025-02-07T22:54:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-14T12:53:04Z",
+        "closedAt": "2025-02-08T20:23:10Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-01-25T11:05:08Z",
+        "closedAt": "2025-01-26T10:27:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-25T19:40:44Z",
+        "closedAt": "2025-01-29T13:45:53Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-29T14:22:11Z",
+        "closedAt": "2025-02-12T23:24:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-03T09:15:36Z",
+        "closedAt": "2025-05-11T23:09:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-17T07:34:18Z",
+        "closedAt": "2025-06-11T20:58:46Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-02-17T15:16:17Z",
+        "closedAt": "2025-02-17T16:36:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-22T08:14:59Z",
+        "closedAt": "2025-06-11T20:57:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-27T13:01:08Z",
+        "closedAt": "2025-08-18T17:29:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-09T16:02:49Z",
+        "closedAt": "2025-03-10T10:35:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-12T12:47:37Z",
+        "closedAt": "2025-04-19T13:35:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-12T22:14:01Z",
+        "closedAt": "2025-04-12T01:19:46Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-03-13T22:14:46Z",
+        "closedAt": "2025-05-10T21:54:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-17T04:05:37Z",
+        "closedAt": "2025-07-01T12:30:52Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-26T00:51:36Z",
+        "closedAt": "2025-07-30T23:00:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-03-29T07:16:04Z",
+        "closedAt": "2025-04-10T23:46:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-04-04T16:20:11Z",
+        "closedAt": "2025-04-04T19:44:58Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-04-16T15:28:16Z",
+        "closedAt": "2025-04-16T18:24:54Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2025-04-18T18:42:27Z",
+        "closedAt": "2025-04-19T13:33:23Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-05-03T23:05:16Z",
+        "closedAt": "2025-05-11T22:56:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-21T19:58:56Z",
+        "closedAt": "2025-05-26T18:15:22Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-23T03:07:47Z",
+        "closedAt": "2025-06-30T14:38:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-23T15:02:37Z",
+        "closedAt": "2025-05-23T15:03:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-25T15:58:54Z",
+        "closedAt": "2025-05-27T07:44:02Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-27T01:37:25Z",
+        "closedAt": "2025-05-27T01:40:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-27T02:26:56Z",
+        "closedAt": "2025-07-30T23:01:32Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-27T16:24:09Z",
+        "closedAt": "2025-07-30T23:03:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-11T07:04:37Z",
+        "closedAt": "2025-06-11T18:55:14Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-06-11T07:11:38Z",
+        "closedAt": "2025-06-11T14:35:07Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-11T15:21:30Z",
+        "closedAt": "2025-06-11T19:48:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-16T00:44:55Z",
+        "closedAt": "2025-06-30T13:25:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-16T08:36:10Z",
+        "closedAt": "2025-06-18T00:42:56Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-19T16:17:55Z",
+        "closedAt": "2025-06-23T02:41:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-28T08:16:43Z",
+        "closedAt": "2025-06-30T13:20:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-30T19:10:18Z",
+        "closedAt": "2025-06-30T19:35:23Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-07-02T05:55:07Z",
+        "closedAt": "2025-09-10T21:36:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-05T13:04:34Z",
+        "closedAt": "2025-07-05T13:05:16Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-06T02:49:37Z",
+        "closedAt": "2025-07-06T13:52:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-13T23:29:32Z",
+        "closedAt": "2025-08-18T16:04:49Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-07-14T03:32:17Z",
+        "closedAt": "2025-07-30T22:35:32Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-08-05T13:58:34Z",
+        "closedAt": "2025-09-12T13:02:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-08-07T06:39:46Z",
+        "closedAt": "2025-09-10T21:23:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-08-11T03:04:31Z",
+        "closedAt": "2025-08-18T04:52:01Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-08-19T13:18:34Z",
+        "closedAt": "2025-08-19T13:30:42Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-08-20T11:20:16Z",
+        "closedAt": "2025-08-20T11:39:57Z"
+      },
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2025-08-29T11:45:50Z",
+        "closedAt": "2025-08-29T11:51:11Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-08-31T15:29:39Z",
+        "closedAt": "2025-12-05T01:04:53Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-09-02T06:47:14Z",
+        "closedAt": "2025-09-10T18:55:24Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-09-18T15:54:06Z",
+        "closedAt": "2025-09-22T15:38:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-09-20T07:37:42Z",
+        "closedAt": "2025-10-16T11:42:00Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-09-20T07:50:00Z",
+        "closedAt": "2025-09-22T15:02:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-09-24T14:21:13Z",
+        "closedAt": "2025-11-07T19:29:08Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-09-30T12:38:23Z",
+        "closedAt": "2025-09-30T13:08:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-10-11T16:45:36Z",
+        "closedAt": "2025-10-17T00:35:12Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-10-29T19:58:03Z",
+        "closedAt": "2025-11-09T01:28:57Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-11-06T23:44:57Z",
+        "closedAt": "2025-11-10T09:38:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-11-14T16:11:27Z",
+        "closedAt": "2025-11-22T22:28:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-11-14T16:28:06Z",
+        "closedAt": "2025-11-22T22:19:24Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-11-27T09:34:06Z",
+        "closedAt": "2026-01-25T16:57:21Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-11-28T15:58:24Z",
+        "closedAt": "2026-01-25T03:52:39Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2025-12-14T23:57:59Z",
+        "closedAt": "2026-01-17T20:45:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2026-01-01T14:02:28Z",
+        "closedAt": "2026-01-25T17:53:28Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-01-02T14:03:02Z",
+        "closedAt": "2026-01-02T18:28:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-01-13T11:42:52Z",
+        "closedAt": "2026-01-25T02:38:45Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-01-25T02:48:48Z",
+        "closedAt": "2026-02-15T23:01:19Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2026-02-08T02:11:41Z",
+        "closedAt": "2026-02-17T00:38:09Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "completed",
+        "createdAt": "2026-02-16T09:23:27Z",
+        "closedAt": "2026-02-16T10:13:08Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-02-21T17:11:09Z",
+        "closedAt": "2026-03-03T21:15:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-02-23T01:36:35Z",
+        "closedAt": "2026-02-24T16:43:51Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-03-01T10:50:58Z",
+        "closedAt": "2026-03-03T21:15:34Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-03-01T11:11:50Z",
+        "closedAt": "2026-03-03T21:15:35Z"
+      }
+    ],
+    "openPRs": [
+      {
+        "createdAt": "2025-09-02T05:19:22Z"
+      },
+      {
+        "createdAt": "2025-11-23T15:04:31Z"
+      },
+      {
+        "createdAt": "2025-12-31T12:02:19Z"
+      },
+      {
+        "createdAt": "2026-03-03T19:24:53Z"
+      }
+    ],
+    "closedPRs": [
+      {
+        "createdAt": "2021-09-18T10:26:00Z",
+        "closedAt": "2021-09-19T12:17:48Z"
+      },
+      {
+        "createdAt": "2022-07-08T04:39:40Z",
+        "closedAt": "2022-07-24T14:54:56Z"
+      },
+      {
+        "createdAt": "2023-01-12T10:41:43Z",
+        "closedAt": "2023-04-25T12:06:35Z"
+      },
+      {
+        "createdAt": "2023-06-10T03:45:56Z",
+        "closedAt": "2023-06-16T11:44:29Z"
+      },
+      {
+        "createdAt": "2023-07-13T09:36:07Z",
+        "closedAt": "2023-07-14T17:54:36Z"
+      },
+      {
+        "createdAt": "2023-09-14T09:45:53Z",
+        "closedAt": "2023-09-15T00:45:44Z"
+      },
+      {
+        "createdAt": "2024-05-04T15:53:15Z",
+        "closedAt": "2024-06-02T19:27:03Z"
+      },
+      {
+        "createdAt": "2024-11-26T08:38:03Z",
+        "closedAt": "2025-06-03T05:57:11Z"
+      },
+      {
+        "createdAt": "2025-02-23T06:29:47Z",
+        "closedAt": "2025-05-23T01:04:14Z"
+      },
+      {
+        "createdAt": "2025-03-07T09:38:35Z",
+        "closedAt": "2025-09-02T03:17:23Z"
+      },
+      {
+        "createdAt": "2025-09-15T03:12:15Z",
+        "closedAt": "2025-09-15T03:12:39Z"
+      },
+      {
+        "createdAt": "2025-11-06T02:49:51Z",
+        "closedAt": "2025-11-12T22:27:50Z"
+      },
+      {
+        "createdAt": "2025-11-06T02:50:16Z",
+        "closedAt": "2025-11-12T22:26:29Z"
+      },
+      {
+        "createdAt": "2025-11-23T14:36:40Z",
+        "closedAt": "2025-11-23T14:38:12Z"
+      }
+    ],
+    "mergedPRs": [
+      {
+        "createdAt": "2021-08-29T18:54:32Z",
+        "mergedAt": "2021-08-29T21:54:58Z"
+      },
+      {
+        "createdAt": "2021-08-30T15:51:58Z",
+        "mergedAt": "2021-08-30T18:56:26Z"
+      },
+      {
+        "createdAt": "2021-09-02T05:31:22Z",
+        "mergedAt": "2021-09-02T05:43:08Z"
+      },
+      {
+        "createdAt": "2021-09-13T04:42:27Z",
+        "mergedAt": "2021-09-13T05:29:57Z"
+      },
+      {
+        "createdAt": "2021-09-13T07:20:40Z",
+        "mergedAt": "2021-09-14T00:11:15Z"
+      },
+      {
+        "createdAt": "2021-09-19T12:56:49Z",
+        "mergedAt": "2021-09-19T16:55:10Z"
+      },
+      {
+        "createdAt": "2021-09-19T23:21:54Z",
+        "mergedAt": "2021-09-20T03:13:01Z"
+      },
+      {
+        "createdAt": "2021-09-21T18:59:41Z",
+        "mergedAt": "2021-09-21T21:40:43Z"
+      },
+      {
+        "createdAt": "2021-09-24T11:29:04Z",
+        "mergedAt": "2021-09-25T21:01:22Z"
+      },
+      {
+        "createdAt": "2021-09-28T16:23:28Z",
+        "mergedAt": "2021-09-30T15:00:36Z"
+      },
+      {
+        "createdAt": "2021-10-12T23:13:07Z",
+        "mergedAt": "2021-10-14T15:29:04Z"
+      },
+      {
+        "createdAt": "2021-10-16T20:22:17Z",
+        "mergedAt": "2021-10-17T00:05:28Z"
+      },
+      {
+        "createdAt": "2021-10-19T22:25:50Z",
+        "mergedAt": "2021-10-20T00:10:10Z"
+      },
+      {
+        "createdAt": "2021-10-22T22:15:29Z",
+        "mergedAt": "2021-10-23T02:11:19Z"
+      },
+      {
+        "createdAt": "2021-10-26T18:49:02Z",
+        "mergedAt": "2021-10-26T19:58:46Z"
+      },
+      {
+        "createdAt": "2021-10-30T15:39:26Z",
+        "mergedAt": "2021-10-30T17:50:28Z"
+      },
+      {
+        "createdAt": "2021-10-30T21:17:13Z",
+        "mergedAt": "2021-10-30T22:17:58Z"
+      },
+      {
+        "createdAt": "2021-11-18T19:29:26Z",
+        "mergedAt": "2021-11-18T23:35:46Z"
+      },
+      {
+        "createdAt": "2022-01-17T21:22:09Z",
+        "mergedAt": "2022-01-17T21:40:00Z"
+      },
+      {
+        "createdAt": "2022-02-12T15:06:41Z",
+        "mergedAt": "2022-02-15T00:08:37Z"
+      },
+      {
+        "createdAt": "2022-02-27T15:11:46Z",
+        "mergedAt": "2022-02-28T16:14:42Z"
+      },
+      {
+        "createdAt": "2022-03-31T12:11:16Z",
+        "mergedAt": "2022-04-01T05:31:29Z"
+      },
+      {
+        "createdAt": "2022-04-01T05:38:08Z",
+        "mergedAt": "2022-04-01T05:39:21Z"
+      },
+      {
+        "createdAt": "2022-04-10T06:02:30Z",
+        "mergedAt": "2022-04-10T06:03:38Z"
+      },
+      {
+        "createdAt": "2022-05-09T18:08:17Z",
+        "mergedAt": "2022-05-09T20:57:12Z"
+      },
+      {
+        "createdAt": "2022-05-12T01:02:58Z",
+        "mergedAt": "2022-05-12T01:14:22Z"
+      },
+      {
+        "createdAt": "2022-06-04T13:27:49Z",
+        "mergedAt": "2022-06-04T14:43:35Z"
+      },
+      {
+        "createdAt": "2022-06-04T13:58:33Z",
+        "mergedAt": "2022-06-04T14:45:30Z"
+      },
+      {
+        "createdAt": "2022-06-14T17:23:59Z",
+        "mergedAt": "2022-06-14T18:31:04Z"
+      },
+      {
+        "createdAt": "2022-07-04T06:34:28Z",
+        "mergedAt": "2022-07-07T13:58:16Z"
+      },
+      {
+        "createdAt": "2022-07-12T02:26:36Z",
+        "mergedAt": "2022-07-24T21:24:10Z"
+      },
+      {
+        "createdAt": "2022-07-13T04:12:38Z",
+        "mergedAt": "2022-07-13T04:14:08Z"
+      },
+      {
+        "createdAt": "2022-07-20T04:45:57Z",
+        "mergedAt": "2022-07-25T01:53:15Z"
+      },
+      {
+        "createdAt": "2022-07-25T04:17:30Z",
+        "mergedAt": "2022-07-25T21:37:08Z"
+      },
+      {
+        "createdAt": "2022-08-20T23:18:16Z",
+        "mergedAt": "2022-08-22T19:11:28Z"
+      },
+      {
+        "createdAt": "2022-08-23T15:30:53Z",
+        "mergedAt": "2022-08-24T15:16:56Z"
+      },
+      {
+        "createdAt": "2022-08-23T15:39:01Z",
+        "mergedAt": "2022-09-02T11:25:14Z"
+      },
+      {
+        "createdAt": "2022-09-04T13:51:58Z",
+        "mergedAt": "2022-09-07T08:51:58Z"
+      },
+      {
+        "createdAt": "2022-09-12T18:17:01Z",
+        "mergedAt": "2022-09-12T18:30:28Z"
+      },
+      {
+        "createdAt": "2022-09-30T06:10:23Z",
+        "mergedAt": "2022-09-30T11:32:41Z"
+      },
+      {
+        "createdAt": "2022-10-21T10:17:44Z",
+        "mergedAt": "2022-11-19T15:52:01Z"
+      },
+      {
+        "createdAt": "2022-10-23T17:48:05Z",
+        "mergedAt": "2022-10-24T10:49:17Z"
+      },
+      {
+        "createdAt": "2022-10-30T16:51:58Z",
+        "mergedAt": "2022-11-01T11:38:12Z"
+      },
+      {
+        "createdAt": "2022-11-05T19:38:04Z",
+        "mergedAt": "2022-11-07T12:07:26Z"
+      },
+      {
+        "createdAt": "2022-11-05T19:55:24Z",
+        "mergedAt": "2022-11-07T12:05:40Z"
+      },
+      {
+        "createdAt": "2022-11-05T21:30:52Z",
+        "mergedAt": "2022-11-07T12:04:49Z"
+      },
+      {
+        "createdAt": "2022-11-08T01:15:18Z",
+        "mergedAt": "2022-11-19T16:39:41Z"
+      },
+      {
+        "createdAt": "2022-11-25T17:15:35Z",
+        "mergedAt": "2022-11-29T01:46:08Z"
+      },
+      {
+        "createdAt": "2022-12-02T16:12:10Z",
+        "mergedAt": "2022-12-02T16:29:23Z"
+      },
+      {
+        "createdAt": "2022-12-09T22:26:36Z",
+        "mergedAt": "2022-12-09T23:03:59Z"
+      },
+      {
+        "createdAt": "2022-12-13T21:38:50Z",
+        "mergedAt": "2022-12-14T23:59:46Z"
+      },
+      {
+        "createdAt": "2023-02-02T01:18:01Z",
+        "mergedAt": "2023-02-02T01:45:29Z"
+      },
+      {
+        "createdAt": "2023-02-02T05:21:53Z",
+        "mergedAt": "2023-02-24T02:23:05Z"
+      },
+      {
+        "createdAt": "2023-03-11T10:47:23Z",
+        "mergedAt": "2023-03-12T20:34:31Z"
+      },
+      {
+        "createdAt": "2023-03-18T07:08:02Z",
+        "mergedAt": "2023-03-21T23:19:45Z"
+      },
+      {
+        "createdAt": "2023-04-17T13:53:23Z",
+        "mergedAt": "2023-04-21T19:27:14Z"
+      },
+      {
+        "createdAt": "2023-04-23T13:28:15Z",
+        "mergedAt": "2023-04-23T19:33:37Z"
+      },
+      {
+        "createdAt": "2023-06-01T06:48:17Z",
+        "mergedAt": "2023-06-02T10:42:16Z"
+      },
+      {
+        "createdAt": "2023-06-10T03:52:23Z",
+        "mergedAt": "2023-06-11T01:29:47Z"
+      },
+      {
+        "createdAt": "2023-07-14T18:24:38Z",
+        "mergedAt": "2023-07-16T15:54:36Z"
+      },
+      {
+        "createdAt": "2023-07-18T15:58:13Z",
+        "mergedAt": "2023-07-19T11:31:30Z"
+      },
+      {
+        "createdAt": "2023-08-31T20:35:50Z",
+        "mergedAt": "2023-09-01T23:08:54Z"
+      },
+      {
+        "createdAt": "2023-09-13T20:33:54Z",
+        "mergedAt": "2023-09-15T00:52:25Z"
+      },
+      {
+        "createdAt": "2023-11-17T00:01:54Z",
+        "mergedAt": "2023-11-17T22:06:54Z"
+      },
+      {
+        "createdAt": "2023-11-24T13:44:35Z",
+        "mergedAt": "2023-11-28T00:54:16Z"
+      },
+      {
+        "createdAt": "2023-12-09T11:13:24Z",
+        "mergedAt": "2023-12-09T23:04:35Z"
+      },
+      {
+        "createdAt": "2024-03-18T21:43:41Z",
+        "mergedAt": "2024-03-19T19:46:47Z"
+      },
+      {
+        "createdAt": "2024-03-22T13:28:02Z",
+        "mergedAt": "2024-03-22T13:52:57Z"
+      },
+      {
+        "createdAt": "2024-04-02T03:15:50Z",
+        "mergedAt": "2024-04-21T00:40:32Z"
+      },
+      {
+        "createdAt": "2024-04-06T22:03:32Z",
+        "mergedAt": "2024-05-04T02:15:56Z"
+      },
+      {
+        "createdAt": "2024-06-29T22:05:22Z",
+        "mergedAt": "2024-07-05T22:52:12Z"
+      },
+      {
+        "createdAt": "2024-07-11T16:58:53Z",
+        "mergedAt": "2024-07-19T21:32:28Z"
+      },
+      {
+        "createdAt": "2024-07-14T04:02:03Z",
+        "mergedAt": "2024-07-19T21:01:30Z"
+      },
+      {
+        "createdAt": "2024-07-26T02:51:17Z",
+        "mergedAt": "2024-08-04T17:06:06Z"
+      },
+      {
+        "createdAt": "2024-08-21T01:00:35Z",
+        "mergedAt": "2024-08-21T01:03:50Z"
+      },
+      {
+        "createdAt": "2024-08-21T01:05:32Z",
+        "mergedAt": "2024-08-21T01:10:54Z"
+      },
+      {
+        "createdAt": "2024-09-22T21:29:39Z",
+        "mergedAt": "2024-10-08T21:46:18Z"
+      },
+      {
+        "createdAt": "2024-10-05T17:03:43Z",
+        "mergedAt": "2024-10-09T12:49:48Z"
+      },
+      {
+        "createdAt": "2024-10-14T15:36:23Z",
+        "mergedAt": "2024-10-14T15:40:18Z"
+      },
+      {
+        "createdAt": "2024-11-06T09:41:12Z",
+        "mergedAt": "2024-11-14T00:52:05Z"
+      },
+      {
+        "createdAt": "2024-11-23T20:00:06Z",
+        "mergedAt": "2024-11-23T22:09:44Z"
+      },
+      {
+        "createdAt": "2024-12-03T11:38:12Z",
+        "mergedAt": "2024-12-23T03:29:43Z"
+      },
+      {
+        "createdAt": "2025-05-03T11:53:39Z",
+        "mergedAt": "2025-05-10T17:30:15Z"
+      },
+      {
+        "createdAt": "2025-05-03T11:53:58Z",
+        "mergedAt": "2025-05-11T17:09:07Z"
+      },
+      {
+        "createdAt": "2025-05-23T01:10:38Z",
+        "mergedAt": "2025-05-26T18:15:21Z"
+      },
+      {
+        "createdAt": "2025-05-27T15:03:41Z",
+        "mergedAt": "2025-05-27T15:39:53Z"
+      },
+      {
+        "createdAt": "2025-06-30T19:33:39Z",
+        "mergedAt": "2025-06-30T19:35:22Z"
+      },
+      {
+        "createdAt": "2025-09-02T03:17:10Z",
+        "mergedAt": "2025-09-20T01:24:57Z"
+      },
+      {
+        "createdAt": "2025-09-19T06:56:19Z",
+        "mergedAt": "2025-09-20T01:23:56Z"
+      },
+      {
+        "createdAt": "2025-09-24T16:06:29Z",
+        "mergedAt": "2025-11-07T19:29:07Z"
+      },
+      {
+        "createdAt": "2025-11-14T16:19:30Z",
+        "mergedAt": "2025-11-22T22:28:19Z"
+      },
+      {
+        "createdAt": "2025-11-14T17:24:29Z",
+        "mergedAt": "2025-11-22T22:19:23Z"
+      },
+      {
+        "createdAt": "2025-11-23T02:29:28Z",
+        "mergedAt": "2025-11-29T16:30:07Z"
+      },
+      {
+        "createdAt": "2025-12-02T05:11:00Z",
+        "mergedAt": "2026-01-11T00:27:33Z"
+      },
+      {
+        "createdAt": "2025-12-06T13:36:47Z",
+        "mergedAt": "2026-01-25T04:27:23Z"
+      },
+      {
+        "createdAt": "2026-02-23T20:32:08Z",
+        "mergedAt": "2026-02-24T16:33:16Z"
+      }
+    ]
+  },
+  "now": "2026-03-04T01:13:32.857Z"
+}
