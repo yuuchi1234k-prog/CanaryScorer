@@ -60,7 +60,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: |
-            data/
+            beta/
             progress.json
           key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
@@ -90,7 +90,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: |
-            data/
+            beta/
             progress.json
           key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
 
