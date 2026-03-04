@@ -66,9 +66,9 @@ function main(): void {
   console.log("=================================================");
 
   bundleDirectory(
-    path.join(process.cwd(), 'data'),
-    path.join(process.cwd(), 'all-plugins-data.json'),
-    "Community"
+    path.join(process.cwd(), 'beta'),
+    path.join(process.cwd(), 'all-betaPlugins-data.json'),
+    "Beta"
   );
 }
 
