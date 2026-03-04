@@ -53,6 +53,32 @@ export interface PluginData {
   readonly mergedPRs: readonly MergedPR[];
 }
 
+// ─── Discovery Schemas (Beta Plugins) ────────────────────────────────────────
+
+export const NextDataEntrySchema = v.object({
+  id: v.string(),
+  prNumber: v.number(),
+  prStatus: v.nullable(v.string()),
+  status: v.nullable(v.string()),
+  prLabels: v.nullable(v.string()),
+  type: v.nullable(v.string()),
+  repo: v.nullable(v.string()),
+  name: v.nullable(v.string()),
+  version: v.nullable(v.string()),
+  description: v.nullable(v.string()),
+  author: v.nullable(v.string()),
+  createdAt: v.number(),
+  lastUpdatedAt: v.number(),
+});
+
+export const NextDataRootSchema = v.object({
+  props: v.object({
+    pageProps: v.object({
+      entries: v.array(NextDataEntrySchema),
+    }),
+  }),
+});
+
 // ─── UI/Output Schemas ───────────────────────────────────────────────────────
 
 /**
@@ -77,6 +103,10 @@ export const ScoreOutputItemSchema = v.object({
     maturity: v.number(),
     communityHealth: v.number(),
   }),
+  // Beta Plugin specific metadata
+  prNumber: v.optional(v.number()),
+  prStatus: v.optional(v.nullable(v.string())),
+  prLabels: v.optional(v.array(v.string())),
 });
 
 export type ScoreOutputItem = v.InferOutput<typeof ScoreOutputItemSchema>;
