@@ -1,0 +1,135 @@
+name: Plugin Data Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    paths:
+      - 'manifest.json'
+  workflow_dispatch:
+    inputs:
+      skip_fetch:
+        description: 'Skip fetching new data (only re-score and bundle)'
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  actions: write # Required to trigger the relay workflow
+
+jobs:
+  validate:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+      - name: Install Dependencies
+        run: npm install
+      - name: Run Validation Script
+        run: npm run validate
+
+  process-data:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+
+      - name: Install Node Dependencies
+        run: npm install 
+
+      # 1. Restore Checkpoint Cache
+      - name: Restore Cache
+        if: ${{ github.event.inputs.skip_fetch != 'true' }}
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            beta/
+            progress.json
+          key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            plugin-data-temp-
+
+      # 2. Runner (Fetcher) - Conditional
+      - name: Run Fetcher
+        if: ${{ github.event.inputs.skip_fetch != 'true' }}
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+        run: npm run runner
+
+      # 3. Check Progress State
+      - name: Check Progress
+        id: progress
+        run: |
+          if [ -f "progress.json" ]; then
+            IS_FINISHED=$(node -p "require('./progress.json').isFinished")
+            echo "is_finished=$IS_FINISHED" >> $GITHUB_OUTPUT
+          else
+            echo "is_finished=true" >> $GITHUB_OUTPUT
+          fi
+
+      # 4. Save Checkpoint Cache (If Relay Needed)
+      - name: Save Cache (Relay Needed)
+        if: steps.progress.outputs.is_finished == 'false'
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            beta/
+            progress.json
+          key: plugin-data-temp-${{ github.run_id }}-${{ github.run_attempt }}
+
+      # 5. Trigger Next Relay Worker
+      - name: Trigger Relay
+        if: steps.progress.outputs.is_finished == 'false'
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+        run: |
+          gh workflow run fetch-plugins-data.yml
+
+      # 6. Scorer - Runs ONLY when fetching is fully complete
+      - name: Run Scorer
+        if: steps.progress.outputs.is_finished == 'true'
+        run: npm run score
+
+      # 7. Bundler - Runs ONLY when fetching is fully complete
+      - name: Run Bundler
+        if: steps.progress.outputs.is_finished == 'true'
+        run: npm run bundle
+
+      # 8. Commit Data - Final step after full completion
+      # Uses orphan branch strategy to wipe history and prevent bloat
+      - name: Commit Data (Snapshot)
+        if: steps.progress.outputs.is_finished == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Create orphan branch to discard history
+          git checkout --orphan latest_state
+          
+          # Add all files (data, source, config) to the new root commit
+          git add .
+          
+          # Commit as a snapshot
+          git commit -m "chore(data): update plugin statistics, scores, and bundle [skip ci]"
+          
+          # Force push to overwrite the target branch with this single commit
+          git push origin latest_state:${{ github.ref_name }} --force
